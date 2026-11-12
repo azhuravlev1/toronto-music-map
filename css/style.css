@@ -79,6 +79,7 @@ html, body { margin: 0; height: 100%; font-family: Inter, -apple-system, BlinkMa
   background: #fff; border-radius: 20px; box-shadow: var(--shadow);
   display: flex; flex-direction: column; overflow: hidden;
 }
+.card[hidden] { display: none; }
 .card.in { animation: cardIn .22s ease-out; }
 @keyframes cardIn { from { opacity: 0; transform: translateX(16px); } to { opacity: 1; transform: none; } }
 .card .band {
