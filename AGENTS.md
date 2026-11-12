@@ -27,6 +27,8 @@ When the user asks to **reload / update the map**:
    `data/events.js` into `history/past_events.txt`, merges all research files,
    drops anything outside the window, dedupes, and writes `data/events.js`.
 5. Report venues where nothing could be found / verified.
+6. Commit and `git push` – the site is hosted on GitHub Pages
+   (https://azhuravlev1.github.io/toronto-music-map/) and redeploys from `main`.
 
 The page itself hides events dated before today, so between reloads past
 events disappear automatically every day. `python3 tools/reload.py --prune-only`

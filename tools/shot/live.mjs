@@ -1,0 +1,12 @@
+import puppeteer from "puppeteer-core";
+const b = await puppeteer.launch({ executablePath: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome", headless: "new", args: ["--enable-gpu", "--use-angle=metal"] });
+const p = await b.newPage();
+await p.emulate({ viewport: { width: 390, height: 844, deviceScaleFactor: 2, isMobile: true, hasTouch: true }, userAgent: "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1" });
+p.on("pageerror", (e) => console.log("pageerror:", e.message));
+await p.goto("https://azhuravlev1.github.io/toronto-music-map/", { waitUntil: "networkidle2" });
+await new Promise((r) => setTimeout(r, 4000));
+await p.evaluate(() => window.__tmm.focus("massey-hall", 15));
+await new Promise((r) => setTimeout(r, 3000));
+await p.screenshot({ path: "../shots/live-mobile.png" });
+await b.close();
+console.log("ok");
