@@ -1,0 +1,7 @@
+[out:json][timeout:120];
+(
+  relation["type"="route"]["route"="subway"]["network"~"TTC"](43.5,-79.7,43.9,-79.1);
+  relation["type"="route"]["route"="light_rail"]["network"~"TTC"](43.5,-79.7,43.9,-79.1);
+  relation["type"="route"]["route"="train"]["network"~"GO|UP"](43.0,-80.8,44.6,-78.6);
+);
+out tags;

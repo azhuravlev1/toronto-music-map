@@ -1,0 +1,5 @@
+tools/shot/node_modules/
+tools/shots/
+tools/*_raw.txt
+tools/routes_*.json
+tools/go_stations.json
