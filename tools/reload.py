@@ -19,6 +19,8 @@ RESEARCH = os.path.join(ROOT, "tools", "research")
 HISTORY = os.path.join(ROOT, "history", "past_events.txt")
 WINDOW_DAYS = 21
 TYPES = {"concert", "party", "comedy", "theatre", "dance", "sports", "film", "talk", "family", "festival", "other"}
+GENRES = {"pop", "rock", "indie", "punk", "metal", "hiphop", "rnb", "soul", "electronic", "jazz", "blues", "folk",
+          "country", "classical", "latin", "world", "reggae", "experimental", "goth", "tribute"}
 
 
 def load_js(path, var):
@@ -117,6 +119,11 @@ def main():
             for opt in ("time", "emoji"):
                 if e.get(opt):
                     ev[opt] = e[opt]
+            genre = (e.get("genre") or "").strip().lower()
+            if genre in GENRES:
+                ev["genre"] = genre
+            elif genre:
+                problems.append(f"{name}: unknown genre {genre!r} on {title!r} -> dropped")
             merged.append(ev)
 
     meta = {"reloadedAt": today.isoformat(), "windowStart": today.isoformat(), "windowEnd": end.isoformat()}

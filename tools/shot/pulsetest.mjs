@@ -1,0 +1,20 @@
+// Checks the "Pulse tonight's shows" switch toggles the marker animation and persists.
+import puppeteer from "puppeteer-core";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
+const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..", "..");
+const b = await puppeteer.launch({ executablePath: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome", headless: "new" });
+const p = await b.newPage();
+p.on("pageerror", (e) => console.log("pageerror:", e.message));
+const url = "file://" + path.join(root, "index.html");
+await p.goto(url);
+await new Promise((r) => setTimeout(r, 2000));
+const count = () => p.evaluate(() => document.querySelectorAll(".venue-dot.pulse").length);
+console.log("pulsing (on):", await count());
+await p.click("#pulse-row");
+console.log("pulsing (off):", await count());
+await p.reload();
+await new Promise((r) => setTimeout(r, 2000));
+console.log("after reload still off:", await count(), await p.$eval("#pulse-toggle", (i) => i.checked));
+await p.click("#pulse-row");
+await b.close();

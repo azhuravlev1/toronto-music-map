@@ -24,19 +24,27 @@
 
   // ---------- event types ----------
   const TYPES = {
-    concert:  { label: "Concert",      emoji: "",   bg: "#FFFFFF", fg: "#1d1d1f", bar: null },
+    concert:  { label: "Live music",   emoji: "🎵", bg: "#E8F6EA", fg: "#1D4A2A", bar: "#43A55B" },
     party:    { label: "Club night",   emoji: "🪩", bg: "#F1E9FF", fg: "#4B2A86", bar: "#9B5DE5" },
     comedy:   { label: "Comedy",       emoji: "😂", bg: "#FFF5D1", fg: "#6B4E00", bar: "#F4B400" },
     theatre:  { label: "Theatre",      emoji: "🎭", bg: "#FDE6EE", fg: "#7A1238", bar: "#D6336C" },
     dance:    { label: "Dance",        emoji: "🩰", bg: "#FCE8F7", fg: "#7A1660", bar: "#D64DAE" },
     sports:   { label: "Sports",       emoji: "🏟️", bg: "#E2EFFC", fg: "#0D3F75", bar: "#1E78D2" },
     film:     { label: "Film",         emoji: "🎬", bg: "#ECEFF2", fg: "#2F3B45", bar: "#5B6B78" },
-    talk:     { label: "Talk",         emoji: "🎙️", bg: "#E6F4EA", fg: "#1F5130", bar: "#34A35A" },
+    talk:     { label: "Talk",         emoji: "🎙️", bg: "#E9EBF8", fg: "#2C3577", bar: "#5C6BC0" },
     family:   { label: "Family",       emoji: "🧸", bg: "#FFEEDD", fg: "#7A3A00", bar: "#F08A24" },
     festival: { label: "Fair / market",emoji: "🎪", bg: "#DFF6F7", fg: "#0D5257", bar: "#14A3AD" },
     other:    { label: "Other",        emoji: "✨", bg: "#F3F3F3", fg: "#444",    bar: "#9A9A9A" },
   };
   const typeOf = (e) => TYPES[e.type] || TYPES.other;
+
+  const GENRES = {
+    pop: ["🎤", "Pop"], rock: ["🎸", "Rock"], indie: ["🌙", "Indie"], punk: ["⚡", "Punk"], metal: ["🤘", "Metal"],
+    hiphop: ["🧢", "Hip-hop"], rnb: ["💜", "R&B"], soul: ["🕺", "Soul/Funk"], electronic: ["🎛️", "Electronic"],
+    jazz: ["🎷", "Jazz"], blues: ["🎺", "Blues"], folk: ["🪕", "Folk"], country: ["🤠", "Country"],
+    classical: ["🎻", "Classical"], latin: ["💃", "Latin"], world: ["🌍", "World"], reggae: ["🌴", "Reggae"],
+    experimental: ["🌀", "Experimental"], goth: ["🦇", "Goth"], tribute: ["🔁", "Tribute"],
+  };
 
   // ---------- venue colour modes ----------
   const VENUE_TYPES = {
@@ -72,6 +80,7 @@
   }
 
   let mode = localStorage.getItem("tmm-mode") || "next";
+  let pulseOn = localStorage.getItem("tmm-pulse") !== "off";
   function venueColor(v) {
     if (mode === "type") return VENUE_TYPES[v.type].color;
     if (mode === "busy") { const n = nightsThisWeek(v); return BUSY_BUCKETS.find((b) => n >= b.min).color; }
@@ -172,7 +181,7 @@
       m.setRadius(baseRadius(v) * zoomFactor(z));
       m.setStyle({ fillColor: venueColor(v), weight: z < 11.5 ? 1.2 : 2 });
       const el = m.getElement();
-      if (el) el.classList.toggle("pulse", mode === "next" && nextEventDelta(v) === 0);
+      if (el) el.classList.toggle("pulse", pulseOn && mode === "next" && nextEventDelta(v) === 0);
     }
   }
 
@@ -190,6 +199,7 @@
     if (mode === "type") items = Object.values(VENUE_TYPES).map((t) => [t.color, t.label]);
     else if (mode === "busy") items = BUSY_BUCKETS.map((b) => [b.color, b.label]);
     else items = NEXT_BUCKETS.map((b) => [b.color, b.label]);
+    document.getElementById("pulse-row").hidden = mode !== "next";
     document.getElementById("legend-items").innerHTML = items
       .map(([c, l]) => `<li><span class="sw" style="background:${c}"></span>${l}</li>`).join("");
   }
@@ -201,6 +211,14 @@
     renderLegend();
     restyleVenues();
   });
+  const pulseInput = document.getElementById("pulse-toggle");
+  pulseInput.checked = pulseOn;
+  pulseInput.addEventListener("change", () => {
+    pulseOn = pulseInput.checked;
+    localStorage.setItem("tmm-pulse", pulseOn ? "on" : "off");
+    restyleVenues();
+  });
+
   const legendEl = document.getElementById("legend");
   const setLegendCollapsed = (c) => {
     legendEl.classList.toggle("collapsed", c);
@@ -243,11 +261,14 @@
       const items = evs.map((e) => {
         const t = typeOf(e);
         const emoji = e.emoji || t.emoji;
-        const style = t.bar ? `style="--bg:${t.bg};--fg:${t.fg};--bar:${t.bar}"` : "";
+        const style = `style="--bg:${t.bg};--fg:${t.fg};--bar:${t.bar}"`;
         const tag = e.url ? `a href="${esc(e.url)}" target="_blank" rel="noopener"` : "div";
-        return `<${tag} class="ev ${t.bar ? "nc" : ""}" ${style} title="${esc(e.title)}${e.time ? " · " + e.time : ""}">
+        const g = GENRES[e.genre];
+        const genre = g ? `<span class="gn" title="${g[1]}">${g[0]}<span class="gl">${g[1]}</span></span>` : "";
+        return `<${tag} class="ev" ${style} title="${esc(e.title)}${g ? " · " + g[1] : ""}${e.time ? " · " + e.time : ""}">
             ${emoji ? `<span class="em">${emoji}</span>` : ""}
             <span class="t">${esc(e.title)}</span>
+            ${genre}
             ${e.time ? `<span class="tm">${e.time}</span>` : ""}
             ${e.url ? '<span class="go">↗</span>' : ""}
           </${tag.split(" ")[0]}>`;
@@ -259,7 +280,7 @@
     const empty = days.length === 0
       ? `<p class="stale">No upcoming data — the last reload covered up to ${WINDOW_END}. Time for a reload!</p>` : "";
 
-    const typesHere = [...new Set(list.map((e) => e.type).filter((t) => t && t !== "concert"))];
+    const typesHere = Object.keys(TYPES).filter((t) => list.some((e) => (TYPES[e.type] ? e.type : "other") === t));
     const typeLegend = typesHere.length
       ? `<div class="types">${typesHere.map((t) => `<span style="--bg:${TYPES[t].bg};--bar:${TYPES[t].bar}">${TYPES[t].emoji} ${TYPES[t].label}</span>`).join("")}</div>` : "";
 

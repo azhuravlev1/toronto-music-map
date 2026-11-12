@@ -46,9 +46,18 @@ A JSON array of event objects:
   "url": "https://...",              // the event's own page (ticket page or venue event page); venue listings page only as a last resort
   "type": "concert",                 // see types below
   "time": "20:00",                   // optional, 24h
-  "emoji": "🏒"                       // optional override of the type emoji
+  "emoji": "🏒",                      // optional override of the type emoji
+  "genre": "indie"                   // optional, concerts/club nights only – see genres below
 }
 ```
+
+Genres (`genre` field; omit when unsure – never guess wildly):
+
+`pop` 🎤 · `rock` 🎸 · `indie` 🌙 (indie/alt) · `punk` ⚡ (punk/hardcore/emo) · `metal` 🤘 ·
+`hiphop` 🧢 · `rnb` 💜 · `soul` 🕺 (soul/funk/disco/motown) · `electronic` 🎛️ (house/techno/DJ) ·
+`jazz` 🎷 · `blues` 🎺 · `folk` 🪕 (folk/singer-songwriter/roots/bluegrass) · `country` 🤠 ·
+`classical` 🎻 (incl. opera, choral, chamber) · `latin` 💃 · `world` 🌍 (afrobeats, Balkan, Bollywood, K/C-pop counts as pop) ·
+`reggae` 🌴 · `experimental` 🌀 · `goth` 🦇 (goth/darkwave/post-punk nights) · `tribute` 🔁 (tribute/cover acts)
 
 Types (anything other than `concert` is shown with a distinct colour + emoji):
 

@@ -20,7 +20,8 @@ window.EVENTS = {
    "title": "Adriana Malandrino Quintet",
    "url": "https://www.therex.ca/events/adriana-malandrino-quintet",
    "type": "concert",
-   "time": "17:00"
+   "time": "17:00",
+   "genre": "jazz"
   },
   {
    "venue": "danforth-music-hall",
@@ -36,7 +37,8 @@ window.EVENTS = {
    "title": "Corin Raymond",
    "url": "https://www.thecameron.com/events/corin-raymond-2026-11-12-18-00",
    "type": "concert",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "folk"
   },
   {
    "venue": "drake-hotel",
@@ -44,7 +46,8 @@ window.EVENTS = {
    "title": "Night Service: Jazz w/ Jesse Maxwell",
    "url": "https://thedrake.ca/event/night-service-jazz-w-jesse-maxwell-3/",
    "type": "concert",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "jazz"
   },
   {
    "venue": "great-hall",
@@ -60,7 +63,8 @@ window.EVENTS = {
    "title": "Alyssa Giammaria",
    "url": "https://www.dromtaberna.com/events/alyssa-giammaria-20261112-1815",
    "type": "concert",
-   "time": "18:15"
+   "time": "18:15",
+   "genre": "jazz"
   },
   {
    "venue": "drake-hotel",
@@ -76,7 +80,8 @@ window.EVENTS = {
    "title": "Qendresa",
    "url": "https://admitone.com/events/qendresa-toronto-173554",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "rnb"
   },
   {
    "venue": "free-times-cafe",
@@ -92,7 +97,8 @@ window.EVENTS = {
    "title": "Madra Salach",
    "url": "https://www.ticketweb.ca/event/madra-salach-the-garrison-tickets/15046933",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "folk"
   },
   {
    "venue": "mod-club",
@@ -100,7 +106,8 @@ window.EVENTS = {
    "title": "the olllam",
    "url": "https://www.livenation.com/event/16vZZ_8fkG7HlQk/the-olllam",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "folk"
   },
   {
    "venue": "opera-house",
@@ -108,7 +115,8 @@ window.EVENTS = {
    "title": "Stella Lefty",
    "url": "https://www.livenation.com/event/177Zv0G61MkyTJO/stella-lefty-lefty-live",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "country"
   },
   {
    "venue": "rivoli",
@@ -116,7 +124,8 @@ window.EVENTS = {
    "title": "Sully Burrows",
    "url": "https://www.ticketmaster.ca/event/10006523B5E9A6C3",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "country"
   },
   {
    "venue": "scotiabank-arena",
@@ -133,7 +142,8 @@ window.EVENTS = {
    "title": "Scissory Business: A Queer Paramore Show",
    "url": "https://www.eventbrite.com/e/scissory-business-a-queer-paramore-show-tickets-2003182410514",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "tribute"
   },
   {
    "venue": "meridian-arts-centre",
@@ -149,7 +159,8 @@ window.EVENTS = {
    "title": "TSO: Four Last Songs",
    "url": "https://roythomsonhall.mhrth.com/tickets/tso-four-last-songs/",
    "type": "concert",
-   "time": "19:30"
+   "time": "19:30",
+   "genre": "classical"
   },
   {
    "venue": "history",
@@ -157,7 +168,8 @@ window.EVENTS = {
    "title": "Bryce Alakai",
    "url": "https://www.ticketmaster.ca/bryce-alakai-toronto-ontario-11-12-2026/event/100064FFC749140A",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "electronic"
   },
   {
    "venue": "horseshoe-tavern",
@@ -173,7 +185,8 @@ window.EVENTS = {
    "title": "Lynn Miles",
    "url": "https://www.showpass.com/lynn-miles-6/",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "folk"
   },
   {
    "venue": "koerner-hall",
@@ -181,7 +194,8 @@ window.EVENTS = {
    "title": "UnCovered: Bee Gees & The Beach Boys (Musical Stage Company)",
    "url": "https://www.rcmusic.com/concert/musical-stage-company-presents-uncovered-bee-gees-and-the-beach-boys-468801-2",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "tribute"
   },
   {
    "venue": "massey-hall",
@@ -189,7 +203,8 @@ window.EVENTS = {
    "title": "Classic Albums Live: Led Zeppelin II",
    "url": "https://masseyhall.mhrth.com/tickets/cal-led-zeppelin-ll/",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "tribute"
   },
   {
    "venue": "the-rex",
@@ -197,7 +212,8 @@ window.EVENTS = {
    "title": "Ernesto Cervini Quartet : Water Pistols at Dawn CD Launch",
    "url": "https://www.therex.ca/events/ernesto-cervini-quartet-2-sr2eh",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "jazz"
   },
   {
    "venue": "drom-taberna",
@@ -205,7 +221,8 @@ window.EVENTS = {
    "title": "The Estrelas",
    "url": "https://www.dromtaberna.com/events/the-estrelas-20261112-2030",
    "type": "concert",
-   "time": "20:30"
+   "time": "20:30",
+   "genre": "world"
   },
   {
    "venue": "bovine-sex-club",
@@ -213,7 +230,8 @@ window.EVENTS = {
    "title": "SEUM + Clegane + Pyres",
    "url": "https://tixert.com/events/seum---clegane---pyres",
    "type": "concert",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "metal"
   },
   {
    "venue": "drake-hotel",
@@ -221,7 +239,8 @@ window.EVENTS = {
    "title": "Night Service: Deep House w/ DJ Mason Reeves",
    "url": "https://thedrake.ca/event/night-service-deep-house-w-dj-mason-reeves-7/",
    "type": "party",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "electronic"
   },
   {
    "venue": "grossmans",
@@ -229,7 +248,8 @@ window.EVENTS = {
    "title": "Greene and Bleus Band",
    "url": "https://grossmanstavern.com/event/greene-and-bleus-band-27/",
    "type": "concert",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "blues"
   },
   {
    "venue": "cameron-house",
@@ -244,7 +264,8 @@ window.EVENTS = {
    "date": "2026-11-12",
    "title": "School Night (Dance Cave)",
    "url": "https://events.leapevents.com/event/school-night-november",
-   "type": "party"
+   "type": "party",
+   "genre": "indie"
   },
   {
    "venue": "monarch-tavern",
@@ -260,7 +281,8 @@ window.EVENTS = {
    "title": "COC Free Concert: Gabrielle Turgeon (OSM Competition winner) w/ Rachael Kerr",
    "url": "https://www.coc.ca/tickets/2627-season/osm-competition-2025-grand-prize-winner",
    "type": "concert",
-   "time": "12:00"
+   "time": "12:00",
+   "genre": "classical"
   },
   {
    "venue": "the-rex",
@@ -268,7 +290,8 @@ window.EVENTS = {
    "title": "Tim Posgate",
    "url": "https://www.therex.ca/events/tim-posgate-2",
    "type": "concert",
-   "time": "17:00"
+   "time": "17:00",
+   "genre": "jazz"
   },
   {
    "venue": "danforth-music-hall",
@@ -292,7 +315,8 @@ window.EVENTS = {
    "title": "Night Service w/ DJ Phil Tessis",
    "url": "https://thedrake.ca/event/night-service-w-dj-phil-tessis-8/",
    "type": "party",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "electronic"
   },
   {
    "venue": "great-hall",
@@ -308,7 +332,8 @@ window.EVENTS = {
    "title": "The Old Dawgz",
    "url": "https://grossmanstavern.com/event/the-old-dawgz-2/",
    "type": "concert",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "blues"
   },
   {
    "venue": "sneaky-dees",
@@ -316,7 +341,8 @@ window.EVENTS = {
    "title": "Centraal w/ Nate Northfield, Qualisonic, JJFA",
    "url": "https://www.livenation.com/event/rZ7HnEZ1AfCvvV/centraal-w-nate-northfield-qualisonic-jjfa",
    "type": "concert",
-   "time": "18:30"
+   "time": "18:30",
+   "genre": "indie"
   },
   {
    "venue": "baby-g",
@@ -324,7 +350,8 @@ window.EVENTS = {
    "title": "Qendresa",
    "url": "https://admitone.com/events/qendresa-toronto-173602",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "rnb"
   },
   {
    "venue": "concert-hall",
@@ -332,7 +359,8 @@ window.EVENTS = {
    "title": "Hamilton Leithauser + Rostam",
    "url": "https://www.livenation.com/event/rZ7HnEZ1Af19Cf/hamilton-leithauser-rostam-the-joint-tour",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "indie"
   },
   {
    "venue": "garrison",
@@ -340,7 +368,8 @@ window.EVENTS = {
    "title": "Mary in the Junkyard w/ Lefty Parker",
    "url": "https://www.ticketweb.ca/event/mary-in-the-junkyard-the-garrison-tickets/14920183",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "indie"
   },
   {
    "venue": "meridian-arts-centre",
@@ -348,7 +377,8 @@ window.EVENTS = {
    "title": "Studio Sessions: DAPHNE + Noise Hotel",
    "url": "https://www.tolive.com/Event-Details-Page/reference/Studio-Sessions-2-NXNE-2026",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "indie"
   },
   {
    "venue": "mod-club",
@@ -356,7 +386,8 @@ window.EVENTS = {
    "title": "Parra for Cuva",
    "url": "https://www.livenation.com/event/1A8Zk3eGkdpWyie/parra-for-cuva",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "electronic"
   },
   {
    "venue": "phoenix",
@@ -364,7 +395,8 @@ window.EVENTS = {
    "title": "DZIDZIO",
    "url": "https://thephoenixconcerttheatre.com/events/event/dzidzio/",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "pop"
   },
   {
    "venue": "royal-theatre",
@@ -380,7 +412,8 @@ window.EVENTS = {
    "title": "Liana Zhen-Ai & Astrid Sonne: Normal Dreams",
    "url": "https://dice.fm/event/oe9a55-liana-zhen-ai-astrid-sonne-normal-dreams-13th-nov-918-bathurst-centre-toronto-tickets",
    "type": "concert",
-   "time": "19:30"
+   "time": "19:30",
+   "genre": "experimental"
   },
   {
    "venue": "four-seasons-centre",
@@ -420,7 +453,8 @@ window.EVENTS = {
    "title": "Hatchetmen – Mindless album release",
    "url": "https://www.eventbrite.ca/e/hatchetmen-release-party-tickets-1998903850225",
    "type": "concert",
-   "time": "19:30"
+   "time": "19:30",
+   "genre": "rock"
   },
   {
    "venue": "history",
@@ -428,7 +462,8 @@ window.EVENTS = {
    "title": "it's murph",
    "url": "https://www.ticketmaster.ca/its-murph-fade-into-nothing-tour-toronto-ontario-11-13-2026/event/10006522B3E0C9CD",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "electronic"
   },
   {
    "venue": "hughs-room",
@@ -436,7 +471,8 @@ window.EVENTS = {
    "title": "Cicada Woods (album release) w/ Medusa Quartet",
    "url": "https://www.showpass.com/cicada-woods-album-release-with-guests-medusa-quartet/",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "latin"
   },
   {
    "venue": "koerner-hall",
@@ -444,7 +480,8 @@ window.EVENTS = {
    "title": "Béla Fleck: My Bluegrass Heart",
    "url": "https://www.rcmusic.com/concert/bela-fleck-my-bluegrass-heart-444601",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "folk"
   },
   {
    "venue": "meridian-hall",
@@ -452,7 +489,8 @@ window.EVENTS = {
    "title": "Sami Beigi",
    "url": "https://www.tolive.com/Event-Details-Page/reference/Sami-Beigi-2026",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "world"
   },
   {
    "venue": "redwood-theatre",
@@ -460,7 +498,8 @@ window.EVENTS = {
    "title": "Bizet's Carmen (Benevolence Opera)",
    "url": "https://www.theredwoodtheatre.com/event-details/bizets-carmen",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "classical"
   },
   {
    "venue": "the-rex",
@@ -468,7 +507,8 @@ window.EVENTS = {
    "title": "Ernesto Cervini Quartet : Water Pistols at Dawn CD Launch",
    "url": "https://www.therex.ca/events/ernesto-cervini-quartet-2-sr2eh-wpmzj",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "jazz"
   },
   {
    "venue": "drom-taberna",
@@ -476,7 +516,8 @@ window.EVENTS = {
    "title": "Heavy Metal Klezmer",
    "url": "https://www.dromtaberna.com/events/heavy-metal-klezmer-20261113-2030",
    "type": "concert",
-   "time": "20:30"
+   "time": "20:30",
+   "genre": "world"
   },
   {
    "venue": "horseshoe-tavern",
@@ -484,7 +525,8 @@ window.EVENTS = {
    "title": "Holly Clausius",
    "url": "https://tixr.com/e/210774",
    "type": "concert",
-   "time": "20:30"
+   "time": "20:30",
+   "genre": "pop"
   },
   {
    "venue": "lula-lounge",
@@ -492,7 +534,8 @@ window.EVENTS = {
    "title": "Latin Friday: Latin Swing + Shum de Salsa",
    "url": "https://www.eventbrite.ca/e/latin-friday-with-latin-swing-shum-de-salsa-tickets-2003015438095",
    "type": "party",
-   "time": "20:30"
+   "time": "20:30",
+   "genre": "latin"
   },
   {
    "venue": "bovine-sex-club",
@@ -500,7 +543,8 @@ window.EVENTS = {
    "title": "Phobocosm w/ A Flock Named Murder, Drofnosura, Arktheos",
    "url": "https://www.eventbrite.ca/e/phobocosm-a-flock-named-murder-drofnosura-arktheos-tickets-2001272743649",
    "type": "concert",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "metal"
   },
   {
    "venue": "cameron-house",
@@ -540,7 +584,8 @@ window.EVENTS = {
    "title": "Sound One",
    "url": "https://grossmanstavern.com/event/sound-one-29/",
    "type": "concert",
-   "time": "21:30"
+   "time": "21:30",
+   "genre": "blues"
   },
   {
    "venue": "cameron-house",
@@ -548,7 +593,8 @@ window.EVENTS = {
    "title": "Fraser Melvin Blues Band",
    "url": "https://www.thecameron.com/events/fraser-melvin-blues-band-2026-11-13-22-00",
    "type": "concert",
-   "time": "22:00"
+   "time": "22:00",
+   "genre": "blues"
   },
   {
    "venue": "drake-hotel",
@@ -556,7 +602,8 @@ window.EVENTS = {
    "title": "11OURS w/ J.J.",
    "url": "https://thedrake.ca/event/11ours-w-j-j-2/",
    "type": "party",
-   "time": "22:00"
+   "time": "22:00",
+   "genre": "electronic"
   },
   {
    "venue": "ground-control",
@@ -564,7 +611,8 @@ window.EVENTS = {
    "title": "Boogie Wonderland: Disco Video Dance Party",
    "url": "https://www.eventbrite.ca/e/boogie-wonderland-disco-video-dance-party-w-earth-wind-fire-spotlight-tickets-2004398024448",
    "type": "party",
-   "time": "22:00"
+   "time": "22:00",
+   "genre": "soul"
   },
   {
    "venue": "opera-house",
@@ -572,7 +620,8 @@ window.EVENTS = {
    "title": "Tobiahs",
    "url": "https://www.livenation.com/event/1A8ZkffGkeSAX2k/tobiahs",
    "type": "party",
-   "time": "22:00"
+   "time": "22:00",
+   "genre": "electronic"
   },
   {
    "venue": "sneaky-dees",
@@ -580,7 +629,8 @@ window.EVENTS = {
    "title": "Emo Night Toronto",
    "url": "https://www.livenation.com/event/rZ7HnEZ1AfQd4S/emo-night-toronto-at-sneaky-dee-s",
    "type": "party",
-   "time": "22:30"
+   "time": "22:30",
+   "genre": "punk"
   },
   {
    "venue": "drake-hotel",
@@ -588,7 +638,8 @@ window.EVENTS = {
    "title": "HONEY (What Flavor Is That?)",
    "url": "https://thedrake.ca/event/honey/",
    "type": "party",
-   "time": "23:00"
+   "time": "23:00",
+   "genre": "electronic"
   },
   {
    "venue": "lula-lounge",
@@ -596,7 +647,8 @@ window.EVENTS = {
    "title": "Late Night at Lula: Fuzzzuê",
    "url": "https://www.eventbrite.ca/e/late-night-at-lula-with-fuzzzue-tickets-2003086137559",
    "type": "concert",
-   "time": "23:00"
+   "time": "23:00",
+   "genre": "latin"
   },
   {
    "venue": "drom-taberna",
@@ -604,7 +656,8 @@ window.EVENTS = {
    "title": "Tara Moneka",
    "url": "https://www.dromtaberna.com/events/tara-moneka-20261113-2330",
    "type": "concert",
-   "time": "23:30"
+   "time": "23:30",
+   "genre": "world"
   },
   {
    "venue": "lees-palace",
@@ -625,21 +678,24 @@ window.EVENTS = {
    "date": "2026-11-13",
    "title": "Twiztid w/ Kill The Burr, Bake Lo, Insane E, Jaycen & The Real Bert",
    "url": "https://events.leapevents.com/event/twiztid-lees",
-   "type": "concert"
+   "type": "concert",
+   "genre": "hiphop"
   },
   {
    "venue": "monarch-tavern",
    "date": "2026-11-13",
    "title": "Rare Groove w/ DJ Darren Sherry (upstairs)",
    "url": "https://www.themonarchtavern.com/",
-   "type": "party"
+   "type": "party",
+   "genre": "soul"
   },
   {
    "venue": "rebel",
    "date": "2026-11-13",
    "title": "William Black",
    "url": "https://www.ticketweb.ca/event/william-black-rebel-tickets/14335054",
-   "type": "party"
+   "type": "party",
+   "genre": "electronic"
   },
   {
    "venue": "drom-taberna",
@@ -647,7 +703,8 @@ window.EVENTS = {
    "title": "Bedspring Symphony",
    "url": "https://www.dromtaberna.com/events/bedspring-symphony-20261114-0230",
    "type": "concert",
-   "time": "02:30"
+   "time": "02:30",
+   "genre": "rock"
   },
   {
    "venue": "drake-hotel",
@@ -680,7 +737,8 @@ window.EVENTS = {
    "title": "TSO: Mozart & Beethoven (Relaxed Concert)",
    "url": "https://www.tso.ca/concerts-and-events/events/mozart-and-beethoven",
    "type": "concert",
-   "time": "11:00"
+   "time": "11:00",
+   "genre": "classical"
   },
   {
    "venue": "sneaky-dees",
@@ -697,7 +755,8 @@ window.EVENTS = {
    "title": "K-Pop Dreamworld",
    "url": "https://www.tolive.com/Event-Details-Page/reference/K-Pop-Dreamworld-2026",
    "type": "concert",
-   "time": "13:00"
+   "time": "13:00",
+   "genre": "pop"
   },
   {
    "venue": "four-seasons-centre",
@@ -713,7 +772,8 @@ window.EVENTS = {
    "title": "Get Together: 60's/70's Singalong",
    "url": "https://eventstoronto.ca/event/open-stage",
    "type": "concert",
-   "time": "14:00"
+   "time": "14:00",
+   "genre": "folk"
   },
   {
    "venue": "harbourfront-centre",
@@ -729,7 +789,8 @@ window.EVENTS = {
    "title": "The Chris Hunt Tentet",
    "url": "https://www.therex.ca/events/the-chris-hunt-tentet",
    "type": "concert",
-   "time": "14:00"
+   "time": "14:00",
+   "genre": "jazz"
   },
   {
    "venue": "grossmans",
@@ -737,7 +798,8 @@ window.EVENTS = {
    "title": "The Happy Pals",
    "url": "https://grossmanstavern.com/event/the-happy-pals-134/",
    "type": "concert",
-   "time": "15:30"
+   "time": "15:30",
+   "genre": "jazz"
   },
   {
    "venue": "mazzoleni-hall",
@@ -745,7 +807,8 @@ window.EVENTS = {
    "title": "Taylor Academy Recital",
    "url": "https://www.rcmusic.com/concert/taylor-academy-recital-1",
    "type": "concert",
-   "time": "16:30"
+   "time": "16:30",
+   "genre": "classical"
   },
   {
    "venue": "the-rex",
@@ -761,7 +824,8 @@ window.EVENTS = {
    "title": "Big Tobacco & the Pickers",
    "url": "https://www.thecameron.com/events/big-tobacco-the-pickers-2026-11-14-18-00",
    "type": "concert",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "folk"
   },
   {
    "venue": "cameron-house",
@@ -777,7 +841,8 @@ window.EVENTS = {
    "title": "Jessi Cruickshank DJs: Evening Club",
    "url": "https://stubwave.com/events/jessi-cruickshank-s-evening-club",
    "type": "party",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "pop"
   },
   {
    "venue": "danforth-music-hall",
@@ -793,7 +858,8 @@ window.EVENTS = {
    "title": "Night Service w/ Sinner & James",
    "url": "https://thedrake.ca/event/night-service-w-sinnerjames-3/",
    "type": "party",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "electronic"
   },
   {
    "venue": "rivoli",
@@ -825,7 +891,8 @@ window.EVENTS = {
    "title": "City Ground + VanHillert + Midnite Vice (One Night at the El Mocambo)",
    "url": "https://elmocambo.com/event/one-night-at-the-el-mocambo/",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "rock"
   },
   {
    "venue": "garrison",
@@ -833,7 +900,8 @@ window.EVENTS = {
    "title": "Sadurn w/ Kitchen",
    "url": "https://www.ticketweb.ca/event/sadurn-the-garrison-tickets/15018363",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "indie"
   },
   {
    "venue": "great-hall",
@@ -841,7 +909,8 @@ window.EVENTS = {
    "title": "Daniel James McFadyen",
    "url": "https://thegreathall.ca/event/daniel-james-mcfayden/",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "folk"
   },
   {
    "venue": "phoenix",
@@ -849,7 +918,8 @@ window.EVENTS = {
    "title": "British 80s vs 90s Spotlight ft. Neon Nostalgic",
    "url": "https://thephoenixconcerttheatre.com/events/event/british-80s-vs-90s-spotlight-featuring-neon-nostalgic/",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "tribute"
   },
   {
    "venue": "queen-elizabeth-theatre",
@@ -874,7 +944,8 @@ window.EVENTS = {
    "title": "Born in the GTA: Bruce Springsteen Tribute",
    "url": "https://elmocambo.com/event/born-in-the-gta/",
    "type": "concert",
-   "time": "19:30"
+   "time": "19:30",
+   "genre": "tribute"
   },
   {
    "venue": "ground-control",
@@ -882,7 +953,8 @@ window.EVENTS = {
    "title": "The Dead Souls (Joy Division tribute)",
    "url": "https://www.eventbrite.ca/e/joy-division-tribute-the-dead-souls-live-celebrating-jd-hall-of-fame-tickets-2003017986718",
    "type": "concert",
-   "time": "19:30"
+   "time": "19:30",
+   "genre": "tribute"
   },
   {
    "venue": "meridian-arts-centre",
@@ -898,7 +970,8 @@ window.EVENTS = {
    "title": "TSO: Four Last Songs",
    "url": "https://roythomsonhall.mhrth.com/tickets/tso-four-last-songs/",
    "type": "concert",
-   "time": "19:30"
+   "time": "19:30",
+   "genre": "classical"
   },
   {
    "venue": "free-times-cafe",
@@ -906,7 +979,8 @@ window.EVENTS = {
    "title": "Ismael De La Torre + Karel Leyva Ferrer",
    "url": "https://eventstoronto.ca/event/cuba-sings-blossoms-presents-ismael-de-la-torre-karel-leyva-ferrer",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "latin"
   },
   {
    "venue": "history",
@@ -914,7 +988,8 @@ window.EVENTS = {
    "title": "it's murph",
    "url": "https://www.ticketmaster.ca/its-murph-fade-into-nothing-tour-toronto-ontario-11-14-2026/event/10006522B3E3C9DA",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "electronic"
   },
   {
    "venue": "horseshoe-tavern",
@@ -922,7 +997,8 @@ window.EVENTS = {
    "title": "The Gruesomes",
    "url": "https://tixr.com/e/206322",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "rock"
   },
   {
    "venue": "hughs-room",
@@ -930,7 +1006,8 @@ window.EVENTS = {
    "title": "The Devin Cuddy Band",
    "url": "https://www.showpass.com/the-devin-cuddy-band/",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "country"
   },
   {
    "venue": "koerner-hall",
@@ -938,7 +1015,8 @@ window.EVENTS = {
    "title": "Aga Khan Master Musicians",
    "url": "https://www.rcmusic.com/concert/aga-khan-master-musicians-441401",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "world"
   },
   {
    "venue": "meridian-arts-centre",
@@ -946,7 +1024,8 @@ window.EVENTS = {
    "title": "Canadian Golha Orchestra + Sepideh Raissadat",
    "url": "https://www.tolive.com/Event-Details-Page/reference/Canadian-Golha-Orchestra-2026",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "world"
   },
   {
    "venue": "meridian-hall",
@@ -954,7 +1033,8 @@ window.EVENTS = {
    "title": "Half Moon Run + The FILMharmonique Orchestra",
    "url": "https://www.tolive.com/Event-Details-Page/reference/Half-Moon-2026",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "indie"
   },
   {
    "venue": "mod-club",
@@ -962,7 +1042,8 @@ window.EVENTS = {
    "title": "Mars Hotel (Grateful Dead tribute)",
    "url": "https://www.livenation.com/event/177Zv0G6uQUNHKu/mars-hotel-one-more-sat-night-gd-tribute",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "tribute"
   },
   {
    "venue": "redwood-theatre",
@@ -970,7 +1051,8 @@ window.EVENTS = {
    "title": "Verdi's Rigoletto (Benevolence Opera)",
    "url": "https://www.theredwoodtheatre.com/event-details/verdis-rigoletto",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "classical"
   },
   {
    "venue": "the-rex",
@@ -978,7 +1060,8 @@ window.EVENTS = {
    "title": "Ernesto Cervini Quartet : Water Pistols at Dawn CD Launch",
    "url": "https://www.therex.ca/events/ernesto-cervini-quartet-2-sr2eh-wpmzj-wpe6j",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "jazz"
   },
   {
    "venue": "drom-taberna",
@@ -986,7 +1069,8 @@ window.EVENTS = {
    "title": "Café Aman Nights: Memories of the East",
    "url": "https://www.dromtaberna.com/events/cafe-aman-nights-memories-of-the-east-20261114-2030",
    "type": "concert",
-   "time": "20:30"
+   "time": "20:30",
+   "genre": "world"
   },
   {
    "venue": "lula-lounge",
@@ -994,7 +1078,8 @@ window.EVENTS = {
    "title": "Salsa Saturday: Adis Rodriguez + DJ Van Gogh",
    "url": "https://www.eventbrite.ca/e/salsa-saturday-w-adis-rodriguez-dj-van-gogh-baila-boogaloo-tickets-2002113624747",
    "type": "party",
-   "time": "20:30"
+   "time": "20:30",
+   "genre": "latin"
   },
   {
    "venue": "cameron-house",
@@ -1010,7 +1095,8 @@ window.EVENTS = {
    "title": "Rob Hiemstra and the Chairman of the Board",
    "url": "https://grossmanstavern.com/event/heather-luckhart-eric-st-launent-9/",
    "type": "concert",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "blues"
   },
   {
    "venue": "ground-control",
@@ -1018,7 +1104,8 @@ window.EVENTS = {
    "title": "Depeche Mode Fest Video Dance Party",
    "url": "https://www.eventbrite.ca/e/depeche-mode-fest-all-dm-all-night-30th-anniversary-tickets-1997438724996",
    "type": "party",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "goth"
   },
   {
    "venue": "rivoli",
@@ -1034,7 +1121,8 @@ window.EVENTS = {
    "title": "Beam Me Up w/ DJs The Patchouli Brothers",
    "url": "https://www.thebabyg.com/",
    "type": "party",
-   "time": "22:00"
+   "time": "22:00",
+   "genre": "soul"
   },
   {
    "venue": "cameron-house",
@@ -1050,7 +1138,8 @@ window.EVENTS = {
    "title": "10PM on Queen West w/ DJ Desiire",
    "url": "https://thedrake.ca/event/10pm-on-queen-west-31/",
    "type": "party",
-   "time": "22:00"
+   "time": "22:00",
+   "genre": "electronic"
   },
   {
    "venue": "sneaky-dees",
@@ -1058,7 +1147,8 @@ window.EVENTS = {
    "title": "Sneaky 2000s Dance Party",
    "url": "https://www.livenation.com/event/rZ7HnEZ1AKPt-0/sneaky-2000s-dance-party-at-sneaky-dee-s-nov-14-2026",
    "type": "party",
-   "time": "22:30"
+   "time": "22:30",
+   "genre": "pop"
   },
   {
    "venue": "drake-hotel",
@@ -1066,7 +1156,8 @@ window.EVENTS = {
    "title": "Desi Nights: Raat Baaki",
    "url": "https://thedrake.ca/event/desi-nights-bollywave-3/",
    "type": "party",
-   "time": "23:00"
+   "time": "23:00",
+   "genre": "world"
   },
   {
    "venue": "the-rex",
@@ -1082,14 +1173,16 @@ window.EVENTS = {
    "title": "Majd Sukar & Sham Blues",
    "url": "https://www.dromtaberna.com/events/majd-sukar-sham-blues-20261114-2330",
    "type": "concert",
-   "time": "23:30"
+   "time": "23:30",
+   "genre": "world"
   },
   {
    "venue": "lees-palace",
    "date": "2026-11-14",
    "title": "ENCORE: 20 Years of Taylor Swift Dance Party",
    "url": "https://events.leapevents.com/event/encore-20-years-of-taylor-swift-dance-party",
-   "type": "party"
+   "type": "party",
+   "genre": "pop"
   },
   {
    "venue": "massey-hall",
@@ -1110,21 +1203,24 @@ window.EVENTS = {
    "date": "2026-11-14",
    "title": "Barely Alive",
    "url": "https://www.ticketweb.ca/event/barely-alive-reconnect-noir-inside-rebel-tickets/15046533",
-   "type": "party"
+   "type": "party",
+   "genre": "electronic"
   },
   {
    "venue": "rebel",
    "date": "2026-11-14",
    "title": "Bed By 10pm",
    "url": "https://www.ticketweb.ca/event/bed-by-10pm-rebel-tickets/14192174",
-   "type": "party"
+   "type": "party",
+   "genre": "electronic"
   },
   {
    "venue": "rebel",
    "date": "2026-11-14",
    "title": "Ben Nicky x Vini Vici x Fovos",
    "url": "https://www.ticketweb.ca/event/ben-nicky-x-vini-vici-rebel-tickets/14288034",
-   "type": "party"
+   "type": "party",
+   "genre": "electronic"
   },
   {
    "venue": "drom-taberna",
@@ -1132,7 +1228,8 @@ window.EVENTS = {
    "title": "Barrow Gang Buskers",
    "url": "https://www.dromtaberna.com/events/barrow-gang-buskers-20261115-0230",
    "type": "concert",
-   "time": "02:30"
+   "time": "02:30",
+   "genre": "rock"
   },
   {
    "venue": "drake-hotel",
@@ -1140,7 +1237,8 @@ window.EVENTS = {
    "title": "GOOD SOUL (Sunday brunch DJs)",
    "url": "https://thedrake.ca/event/good-soul/",
    "type": "party",
-   "time": "11:00"
+   "time": "11:00",
+   "genre": "soul"
   },
   {
    "venue": "free-times-cafe",
@@ -1148,7 +1246,8 @@ window.EVENTS = {
    "title": "Klezmer Brunch w/ Isaac Muzikansky & Friends",
    "url": "https://eventstoronto.ca/event/buffet-brunch-bella-did-ya-eat-w-isaac-muzikansky-friends",
    "type": "concert",
-   "time": "11:00"
+   "time": "11:00",
+   "genre": "world"
   },
   {
    "venue": "four-seasons-centre",
@@ -1180,7 +1279,8 @@ window.EVENTS = {
    "title": "Avataar",
    "url": "https://www.therex.ca/events/avataar-2",
    "type": "concert",
-   "time": "14:00"
+   "time": "14:00",
+   "genre": "jazz"
   },
   {
    "venue": "grossmans",
@@ -1188,7 +1288,8 @@ window.EVENTS = {
    "title": "New Orleans Connection All Star Jazz Band",
    "url": "https://grossmanstavern.com/event/new-orleans-connection-all-star-jazz-band-134/",
    "type": "concert",
-   "time": "15:00"
+   "time": "15:00",
+   "genre": "jazz"
   },
   {
    "venue": "koerner-hall",
@@ -1196,7 +1297,8 @@ window.EVENTS = {
    "title": "Rihab Chaieb + Ammiel Bushakevitz",
    "url": "https://www.rcmusic.com/concert/rihab-chaieb-mezzo-soprano-with-ammiel-bushakevitz-piano-430601",
    "type": "concert",
-   "time": "15:00"
+   "time": "15:00",
+   "genre": "classical"
   },
   {
    "venue": "free-times-cafe",
@@ -1212,7 +1314,8 @@ window.EVENTS = {
    "title": "Salsa Caleña Convention Cabaret w/ Luis Franco",
    "url": "https://www.eventbrite.ca/e/salsa-calena-convention-2026-tickets-1994229214263",
    "type": "party",
-   "time": "16:00"
+   "time": "16:00",
+   "genre": "latin"
   },
   {
    "venue": "meridian-arts-centre",
@@ -1228,7 +1331,8 @@ window.EVENTS = {
    "title": "Laura Hubert Band",
    "url": "https://www.therex.ca/events/laura-hubert-band-2-rgl67-2fs3t-kpzrt-whmzk-9dxb7-a2f4b",
    "type": "concert",
-   "time": "17:00"
+   "time": "17:00",
+   "genre": "jazz"
   },
   {
    "venue": "baby-g",
@@ -1236,7 +1340,8 @@ window.EVENTS = {
    "title": "Catie Turner w/ Kiss Bang",
    "url": "https://www.ticketmaster.ca/event/1000651AC4E31293",
    "type": "concert",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "pop"
   },
   {
    "venue": "cameron-house",
@@ -1244,7 +1349,8 @@ window.EVENTS = {
    "title": "Colonel Tom",
    "url": "https://www.thecameron.com/events/colonel-tom-2026-11-15-18-00",
    "type": "concert",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "country"
   },
   {
    "venue": "mod-club",
@@ -1252,7 +1358,8 @@ window.EVENTS = {
    "title": "Alyssa Grace",
    "url": "https://www.livenation.com/event/1AvZZ_oGki7SsXD/alyssa-grace",
    "type": "concert",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "folk"
   },
   {
    "venue": "scotiabank-arena",
@@ -1277,7 +1384,8 @@ window.EVENTS = {
    "title": "Julia Jacklin",
    "url": "https://www.livenation.com/event/177Zv0G65wyKfY0/julia-jacklin-north-america-tour-2026",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "indie"
   },
   {
    "venue": "drake-hotel",
@@ -1285,7 +1393,8 @@ window.EVENTS = {
    "title": "Memphis LK",
    "url": "https://thedrake.ca/event/memphis-lk/",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "electronic"
   },
   {
    "venue": "garrison",
@@ -1293,7 +1402,8 @@ window.EVENTS = {
    "title": "James Ivy w/ Harry Teardrop",
    "url": "https://link.dice.fm/Rba2339ec27d",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "indie"
   },
   {
    "venue": "great-hall",
@@ -1301,7 +1411,8 @@ window.EVENTS = {
    "title": "Cannelle",
    "url": "https://thegreathall.ca/event/cannelle/",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "pop"
   },
   {
    "venue": "history",
@@ -1309,7 +1420,8 @@ window.EVENTS = {
    "title": "Wheeler Walker Jr.",
    "url": "https://www.ticketmaster.ca/wheeler-walker-jr-pullin-out-the-toronto-ontario-11-15-2026/event/100064C2C8AB73A7",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "country"
   },
   {
    "venue": "meridian-arts-centre",
@@ -1317,7 +1429,8 @@ window.EVENTS = {
    "title": "Aznavour and the Legends",
    "url": "https://www.tolive.com/Event-Details-Page/reference/Aznavour-2026",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "tribute"
   },
   {
    "venue": "monarch-tavern",
@@ -1325,7 +1438,8 @@ window.EVENTS = {
    "title": "James Ivy",
    "url": "https://dice.fm/event/2waonm-james-ivy-15th-nov-the-monarch-tavern-toronto-tickets",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "indie"
   },
   {
    "venue": "opera-house",
@@ -1333,7 +1447,8 @@ window.EVENTS = {
    "title": "Matt Hansen w/ Avery Lynch, Conall Cafferty",
    "url": "https://www.livenation.com/event/177Zv0G65pr4hDY/matt-hansen-the-orchid-tour",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "pop"
   },
   {
    "venue": "free-times-cafe",
@@ -1349,7 +1464,8 @@ window.EVENTS = {
    "title": "The Double Cuts",
    "url": "https://www.thecameron.com/events/the-double-cuts-2026-11-15-20-00",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "country"
   },
   {
    "venue": "the-rex",
@@ -1373,7 +1489,8 @@ window.EVENTS = {
    "title": "Sunday Jam Night Hosted by The Charter Blues Band",
    "url": "https://grossmanstavern.com/event/sunday-jam-night-hosted-by-the-charter-blues-band-22/",
    "type": "concert",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "blues"
   },
   {
    "venue": "cameron-house",
@@ -1389,14 +1506,16 @@ window.EVENTS = {
    "title": "High Loves (Alex & Ananta Birthday Party)",
    "url": "https://www.dromtaberna.com/events/alex-and-ananta-birthday-party-20261115-2330",
    "type": "concert",
-   "time": "23:30"
+   "time": "23:30",
+   "genre": "indie"
   },
   {
    "venue": "hughs-room",
    "date": "2026-11-15",
    "title": "Kuchocki Sings DiNovi \"But Only For You\"",
    "url": "https://www.showpass.com/kuchocki-sings-dinovi/",
-   "type": "concert"
+   "type": "concert",
+   "genre": "jazz"
   },
   {
    "venue": "massey-hall",
@@ -1411,7 +1530,8 @@ window.EVENTS = {
    "title": "University of Toronto Student Jazz Ensembles",
    "url": "https://www.therex.ca/events/university-of-toronto-student-jazz-ensembles-8s2bg-al9l6-x43w3-2y6yk-frtf6",
    "type": "concert",
-   "time": "17:00"
+   "time": "17:00",
+   "genre": "jazz"
   },
   {
    "venue": "history",
@@ -1419,7 +1539,8 @@ window.EVENTS = {
    "title": "Wage War",
    "url": "https://www.ticketmaster.ca/wage-war-emergency-broadcast-tour-toronto-ontario-11-16-2026/event/100064C3D99C6758",
    "type": "concert",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "metal"
   },
   {
    "venue": "concert-hall",
@@ -1427,7 +1548,8 @@ window.EVENTS = {
    "title": "Ezra Collective",
    "url": "https://www.livenation.com/event/rZ7HnEZ1Afk_-V/ezra-collective-here-because-of-hope-tour",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "jazz"
   },
   {
    "venue": "danforth-music-hall",
@@ -1435,7 +1557,8 @@ window.EVENTS = {
    "title": "Slow Pulp",
    "url": "https://www.livenation.com/event/177Zv0G61htGyBe/slow-pulp",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "indie"
   },
   {
    "venue": "drake-hotel",
@@ -1443,7 +1566,8 @@ window.EVENTS = {
    "title": "Francis of Delirium",
    "url": "https://thedrake.ca/event/francis-of-delirium/",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "indie"
   },
   {
    "venue": "garrison",
@@ -1451,7 +1575,8 @@ window.EVENTS = {
    "title": "Sassy 009",
    "url": "https://link.dice.fm/Vcd0dbb5336d",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "electronic"
   },
   {
    "venue": "scotiabank-arena",
@@ -1459,7 +1584,8 @@ window.EVENTS = {
    "title": "sombr",
    "url": "https://www.scotiabankarena.com/events/detail/sombr",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "indie"
   },
   {
    "venue": "meridian-arts-centre",
@@ -1475,7 +1601,8 @@ window.EVENTS = {
    "title": "The Garrett Boys",
    "url": "https://tixr.com/e/208926",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "folk"
   },
   {
    "venue": "the-rex",
@@ -1491,7 +1618,8 @@ window.EVENTS = {
    "title": "Whitney Smith Big Steam Band",
    "url": "https://www.eventbrite.com/e/whitney-smith-big-steam-band-the-monarch-tavern-nov-16-tickets-2001008855352",
    "type": "concert",
-   "time": "20:30"
+   "time": "20:30",
+   "genre": "jazz"
   },
   {
    "venue": "cameron-house",
@@ -1513,7 +1641,8 @@ window.EVENTS = {
    "date": "2026-11-16",
    "title": "Knats w/ Luge & Diskarte",
    "url": "https://events.leapevents.com/event/kants-w-luge-diskarte",
-   "type": "concert"
+   "type": "concert",
+   "genre": "jazz"
   },
   {
    "venue": "the-rex",
@@ -1521,7 +1650,8 @@ window.EVENTS = {
    "title": "Nico Dann Quartet",
    "url": "https://www.therex.ca/events/nico-dann",
    "type": "concert",
-   "time": "17:00"
+   "time": "17:00",
+   "genre": "jazz"
   },
   {
    "venue": "meridian-arts-centre",
@@ -1537,7 +1667,8 @@ window.EVENTS = {
    "title": "Mattie Leon",
    "url": "https://www.thecameron.com/events/mattie-leon-2026-11-17-18-00",
    "type": "concert",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "folk"
   },
   {
    "venue": "drake-hotel",
@@ -1545,7 +1676,8 @@ window.EVENTS = {
    "title": "Tuesday Is My Friday w/ DJ Gil Masuda",
    "url": "https://thedrake.ca/event/tuesday-is-my-friday-w-dj-gil-masuda/",
    "type": "party",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "electronic"
   },
   {
    "venue": "four-seasons-centre",
@@ -1561,7 +1693,8 @@ window.EVENTS = {
    "title": "Big Bill w/ Silks, Sap",
    "url": "https://link.dice.fm/G933650162ae",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "punk"
   },
   {
    "venue": "danforth-music-hall",
@@ -1569,7 +1702,8 @@ window.EVENTS = {
    "title": "Gene",
    "url": "https://www.livenation.com/event/177Zv0G61Lr0qNz/gene",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "indie"
   },
   {
    "venue": "drake-hotel",
@@ -1577,7 +1711,8 @@ window.EVENTS = {
    "title": "Mountain Grass Unit",
    "url": "https://thedrake.ca/event/mountain-grass-unit/",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "folk"
   },
   {
    "venue": "garrison",
@@ -1585,7 +1720,8 @@ window.EVENTS = {
    "title": "Patrick Wolf w/ Ben Rositsan (Potions)",
    "url": "https://www.ticketweb.ca/event/patrick-wolf-the-garrison-tickets/14272644",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "indie"
   },
   {
    "venue": "history",
@@ -1593,7 +1729,8 @@ window.EVENTS = {
    "title": "Orville Peck",
    "url": "https://www.ticketmaster.ca/orville-peck-man-turned-mule-tour-toronto-ontario-11-17-2026/event/100064F5C48AEF1F",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "country"
   },
   {
    "venue": "koerner-hall",
@@ -1601,7 +1738,8 @@ window.EVENTS = {
    "title": "Punch Brothers",
    "url": "https://www.rcmusic.com/concert/punch-brothers-441801",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "folk"
   },
   {
    "venue": "monarch-tavern",
@@ -1609,7 +1747,8 @@ window.EVENTS = {
    "title": "Doom Scroll + The You & Me's + Big Brother + Helga Pataki",
    "url": "https://www.eventbrite.com/e/doom-scroll-the-you-mes-big-brother-helga-pataki-at-monarch-tavern-tickets-1999621755499",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "punk"
   },
   {
    "venue": "queen-elizabeth-theatre",
@@ -1617,7 +1756,8 @@ window.EVENTS = {
    "title": "Boudchart",
    "url": "https://admitone.com/events/boudchart-toronto-178338",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "world"
   },
   {
    "venue": "rivoli",
@@ -1625,7 +1765,8 @@ window.EVENTS = {
    "title": "OURS: 25 Years of Distorted Lullabies w/ Brian Byrne",
    "url": "https://www.rivolitoronto.com/events/ours-celebrating-25-years-of-distorted-lullabies",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "rock"
   },
   {
    "venue": "free-times-cafe",
@@ -1633,7 +1774,8 @@ window.EVENTS = {
    "title": "Tuesday Songwriters' Open Stage",
    "url": "https://www.freetimescafe.com/",
    "type": "concert",
-   "time": "19:30"
+   "time": "19:30",
+   "genre": "folk"
   },
   {
    "venue": "harbourfront-centre",
@@ -1666,7 +1808,8 @@ window.EVENTS = {
    "title": "Slaughter To Prevail",
    "url": "https://greatcanadian.com/event/slaughter-to-prevail/",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "metal"
   },
   {
    "venue": "great-hall",
@@ -1682,7 +1825,8 @@ window.EVENTS = {
    "title": "Gäry + Odd Marshall + Nate Mills And The Consenting Adult",
    "url": "https://tixr.com/e/213038",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "indie"
   },
   {
    "venue": "the-rex",
@@ -1690,7 +1834,8 @@ window.EVENTS = {
    "title": "Classic Rex Jazz Jam",
    "url": "https://www.therex.ca/events/kjhjzpwwktph5p6-5s2t9-dsfga-3tkpm-xra9d-rs6pr-5t68s-b6bdl-rdnh9-5ydnb-ywppw-tpclj",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "jazz"
   },
   {
    "venue": "cameron-house",
@@ -1698,14 +1843,16 @@ window.EVENTS = {
    "title": "Vivienne Wilder",
    "url": "https://www.thecameron.com/events/vivienne-wilder-2026-11-17-21-00",
    "type": "concert",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "indie"
   },
   {
    "venue": "hughs-room",
    "date": "2026-11-17",
    "title": "Everybody Here Wants You – The Music of Jeff Buckley",
    "url": "https://www.showpass.com/everybody-here-wants-you-the-music-of-jeff-buckley/",
-   "type": "concert"
+   "type": "concert",
+   "genre": "tribute"
   },
   {
    "venue": "meridian-arts-centre",
@@ -1721,7 +1868,8 @@ window.EVENTS = {
    "title": "Gianluca Occhipinti Trio",
    "url": "https://www.therex.ca/events/gianluca-occhipinti-trio-3",
    "type": "concert",
-   "time": "17:00"
+   "time": "17:00",
+   "genre": "jazz"
   },
   {
    "venue": "cameron-house",
@@ -1729,7 +1877,8 @@ window.EVENTS = {
    "title": "Justin Rutledge",
    "url": "https://www.thecameron.com/events/justin-rutledge-2026-11-18-18-00",
    "type": "concert",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "folk"
   },
   {
    "venue": "royal-theatre",
@@ -1753,7 +1902,8 @@ window.EVENTS = {
    "title": "Trivium",
    "url": "https://greatcanadian.com/event/trivium-2026/",
    "type": "concert",
-   "time": "18:30"
+   "time": "18:30",
+   "genre": "metal"
   },
   {
    "venue": "danforth-music-hall",
@@ -1761,7 +1911,8 @@ window.EVENTS = {
    "title": "Dweezil Zappa",
    "url": "https://www.livenation.com/event/177Zv0G61hi7BjS/dweezil-zappa-dz20-like-father-like-son",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "rock"
   },
   {
    "venue": "great-hall",
@@ -1769,7 +1920,8 @@ window.EVENTS = {
    "title": "Freak Slug w/ Mila Degray (Longboat Hall)",
    "url": "https://dice.fm/event/g53k3p-freak-slug-18th-nov-longboat-hall-toronto-tickets",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "indie"
   },
   {
    "venue": "great-hall",
@@ -1777,7 +1929,8 @@ window.EVENTS = {
    "title": "The Bones of J.R. Jones w/ Chris Kasper",
    "url": "https://thegreathall.ca/event/the-bones-of-j-r-jones-2/",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "folk"
   },
   {
    "venue": "mod-club",
@@ -1785,7 +1938,8 @@ window.EVENTS = {
    "title": "Surprise Chef",
    "url": "https://www.livenation.com/event/1AvZZ_8GklN-R7j/surprise-chef",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "soul"
   },
   {
    "venue": "opera-house",
@@ -1793,7 +1947,8 @@ window.EVENTS = {
    "title": "Strawberry Guy",
    "url": "https://www.livenation.com/event/177Zv0G65EKOrwx/strawberry-guy",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "indie"
   },
   {
    "venue": "rivoli",
@@ -1801,7 +1956,8 @@ window.EVENTS = {
    "title": "Sam Shackleton",
    "url": "https://www.ticketmaster.ca/event/1000650BA47BF488",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "folk"
   },
   {
    "venue": "four-seasons-centre",
@@ -1817,7 +1973,8 @@ window.EVENTS = {
    "title": "Songwriters Showcase",
    "url": "https://eventstoronto.ca/event/singers-songwriters-showcase",
    "type": "concert",
-   "time": "19:30"
+   "time": "19:30",
+   "genre": "folk"
   },
   {
    "venue": "harbourfront-centre",
@@ -1842,7 +1999,8 @@ window.EVENTS = {
    "title": "Jorja Smith w/ Wesley Joseph",
    "url": "https://masseyhall.mhrth.com/tickets/jorja-smith/",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "rnb"
   },
   {
    "venue": "the-rex",
@@ -1850,7 +2008,8 @@ window.EVENTS = {
    "title": "Larnell Lewis & Joy Lapps",
    "url": "https://www.therex.ca/events/larnell-lewis-joy-lapps",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "jazz"
   },
   {
    "venue": "horseshoe-tavern",
@@ -1858,7 +2017,8 @@ window.EVENTS = {
    "title": "Horsebath",
    "url": "https://tixr.com/e/207534",
    "type": "concert",
-   "time": "20:30"
+   "time": "20:30",
+   "genre": "folk"
   },
   {
    "venue": "cameron-house",
@@ -1874,21 +2034,24 @@ window.EVENTS = {
    "title": "Action Sound Band",
    "url": "https://grossmanstavern.com/event/action-sound-band-130/",
    "type": "concert",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "blues"
   },
   {
    "venue": "hughs-room",
    "date": "2026-11-18",
    "title": "Everybody Here Wants You – The Music of Jeff Buckley",
    "url": "https://www.showpass.com/everybody-here-wants-you-the-music-of-jeff-buckley-2/",
-   "type": "concert"
+   "type": "concert",
+   "genre": "tribute"
   },
   {
    "venue": "lees-palace",
    "date": "2026-11-18",
    "title": "Too Many Zooz w/ Compost",
    "url": "https://events.leapevents.com/event/too-many-zooz",
-   "type": "concert"
+   "type": "concert",
+   "genre": "jazz"
   },
   {
    "venue": "meridian-arts-centre",
@@ -1896,7 +2059,8 @@ window.EVENTS = {
    "title": "Sound Break: Grace Scheele",
    "url": "https://www.tolive.com/Event-Details-Page/reference/Sound-Break-Fall-2026",
    "type": "concert",
-   "time": "12:00"
+   "time": "12:00",
+   "genre": "experimental"
   },
   {
    "venue": "harbourfront-centre",
@@ -1912,7 +2076,8 @@ window.EVENTS = {
    "title": "Nathan Tran Quintet",
    "url": "https://www.therex.ca/events/nathan-tran-quintet-2",
    "type": "concert",
-   "time": "17:00"
+   "time": "17:00",
+   "genre": "jazz"
   },
   {
    "venue": "cameron-house",
@@ -1920,7 +2085,8 @@ window.EVENTS = {
    "title": "Corin Raymond",
    "url": "https://www.thecameron.com/events/corin-raymond-2026-11-19-18-00",
    "type": "concert",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "folk"
   },
   {
    "venue": "danforth-music-hall",
@@ -1928,7 +2094,8 @@ window.EVENTS = {
    "title": "Catch Your Breath",
    "url": "https://www.livenation.com/event/177Zv0G65l9L0CA/catch-your-breath-not-broken-enough-tour",
    "type": "concert",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "rock"
   },
   {
    "venue": "drake-hotel",
@@ -1936,7 +2103,8 @@ window.EVENTS = {
    "title": "Night Service: Jazz w/ Wade O. Brown",
    "url": "https://thedrake.ca/event/night-service-jazz-w-wade-o-brown-4/",
    "type": "concert",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "jazz"
   },
   {
    "venue": "adelaide-hall",
@@ -1952,7 +2120,8 @@ window.EVENTS = {
    "title": "Insomnium + Amorphis w/ Hinayana",
    "url": "https://www.livenation.com/event/rZ7HnEZ1Af1d1f/insomnium-amorphis",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "metal"
   },
   {
    "venue": "drake-hotel",
@@ -1968,7 +2137,8 @@ window.EVENTS = {
    "title": "Madeon presents Victory Live",
    "url": "https://www.ticketmaster.ca/madeon-presents-victory-live-toronto-ontario-11-19-2026/event/100064A6F255B83C",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "electronic"
   },
   {
    "venue": "meridian-hall",
@@ -2001,7 +2171,8 @@ window.EVENTS = {
    "title": "The Dark Hours",
    "url": "https://www.thebabyg.com/",
    "type": "concert",
-   "time": "19:30"
+   "time": "19:30",
+   "genre": "goth"
   },
   {
    "venue": "four-seasons-centre",
@@ -2017,7 +2188,8 @@ window.EVENTS = {
    "title": "Rishab Rikhiram Sharma: Sitar For Mental Health",
    "url": "https://greatcanadian.com/event/rishab-rikhiram-sharma/",
    "type": "concert",
-   "time": "19:30"
+   "time": "19:30",
+   "genre": "world"
   },
   {
    "venue": "meridian-arts-centre",
@@ -2033,7 +2205,8 @@ window.EVENTS = {
    "title": "Women In Rock: Burness + Makenzy Williamson + Kami",
    "url": "https://www.eventbrite.com/e/women-in-rock-at-sneaky-dees-burness-makenzy-williamson-kami-tickets-2004600548202",
    "type": "concert",
-   "time": "19:30"
+   "time": "19:30",
+   "genre": "rock"
   },
   {
    "venue": "free-times-cafe",
@@ -2041,7 +2214,8 @@ window.EVENTS = {
    "title": "Franc'Open Mic",
    "url": "https://eventstoronto.ca/event/francopen-mic-la-scene-ouverte-francophone-de-toronto",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "folk"
   },
   {
    "venue": "garrison",
@@ -2049,7 +2223,8 @@ window.EVENTS = {
    "title": "Mama's Gun w/ Clerel",
    "url": "https://www.ticketweb.ca/event/mamas-gun-the-garrison-tickets/14816073",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "soul"
   },
   {
    "venue": "hughs-room",
@@ -2057,7 +2232,8 @@ window.EVENTS = {
    "title": "Valdy",
    "url": "https://www.showpass.com/valdy-9/",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "folk"
   },
   {
    "venue": "meridian-arts-centre",
@@ -2065,7 +2241,8 @@ window.EVENTS = {
    "title": "Joshua Redman Quartet",
    "url": "https://www.tolive.com/Event-Details-Page/reference/Joshua-Redman-2026",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "jazz"
   },
   {
    "venue": "redwood-theatre",
@@ -2073,7 +2250,8 @@ window.EVENTS = {
    "title": "John Fraser Findlay – Perfect Storm album release",
    "url": "https://www.theredwoodtheatre.com/event-details/john-fraser-findlay",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "blues"
   },
   {
    "venue": "the-rex",
@@ -2081,7 +2259,8 @@ window.EVENTS = {
    "title": "Larnell Lewis & Joy Lapps",
    "url": "https://www.therex.ca/events/larnell-lewis-joy-lapps-tpy9s",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "jazz"
   },
   {
    "venue": "horseshoe-tavern",
@@ -2089,7 +2268,8 @@ window.EVENTS = {
    "title": "Kaleta & Super Yamba Band",
    "url": "https://tixr.com/e/204062",
    "type": "concert",
-   "time": "20:30"
+   "time": "20:30",
+   "genre": "world"
   },
   {
    "venue": "drake-hotel",
@@ -2097,7 +2277,8 @@ window.EVENTS = {
    "title": "Night Service: Deep House w/ DJ Mason Reeves",
    "url": "https://thedrake.ca/event/night-service-deep-house-w-dj-mason-reeves-7/",
    "type": "party",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "electronic"
   },
   {
    "venue": "ground-control",
@@ -2105,7 +2286,8 @@ window.EVENTS = {
    "title": "Serious Moonlight Thursdays w/ DJ Lazarus",
    "url": "https://www.torontogothevents.com/events/serious-moonlight-2026-11-19/",
    "type": "party",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "goth"
   },
   {
    "venue": "grossmans",
@@ -2113,7 +2295,8 @@ window.EVENTS = {
    "title": "Joel Battle & Friends",
    "url": "https://grossmanstavern.com/event/joel-battle-friends-13/",
    "type": "concert",
-   "time": "21:30"
+   "time": "21:30",
+   "genre": "blues"
   },
   {
    "venue": "bovine-sex-club",
@@ -2121,7 +2304,8 @@ window.EVENTS = {
    "title": "Jules Is Dead w/ Death Mask, Sydney Riley",
    "url": "https://torevent.ca/events/330323f2f3464b870ef21759",
    "type": "concert",
-   "time": "22:00"
+   "time": "22:00",
+   "genre": "punk"
   },
   {
    "venue": "cameron-house",
@@ -2136,28 +2320,32 @@ window.EVENTS = {
    "date": "2026-11-19",
    "title": "U of T Opera: Fall River, the legend of Lizzie Borden",
    "url": "https://www.heritagetrust.on.ca/ewg/calendar/uoft-opera-lizzie-borden?date=2026-11-19",
-   "type": "concert"
+   "type": "concert",
+   "genre": "classical"
   },
   {
    "venue": "lees-palace",
    "date": "2026-11-19",
    "title": "Fox Stevenson + Mystery Skulls",
    "url": "https://events.leapevents.com/event/fox-stevenson-x-mystery-skulls",
-   "type": "concert"
+   "type": "concert",
+   "genre": "electronic"
   },
   {
    "venue": "lees-palace",
    "date": "2026-11-19",
    "title": "Lucy (Cooper B. Handy) w/ Cootie Catcher & Gods Wisdom",
    "url": "https://events.leapevents.com/event/lucy-cooper-b-handy-w-gods-wisdom",
-   "type": "concert"
+   "type": "concert",
+   "genre": "indie"
   },
   {
    "venue": "massey-hall",
    "date": "2026-11-19",
    "title": "Qawwali Flamenco (Faiz Ali Faiz + Chicuelo)",
    "url": "https://masseyhall.mhrth.com/tickets/qawwali-flamenco/",
-   "type": "concert"
+   "type": "concert",
+   "genre": "world"
   },
   {
    "venue": "monarch-tavern",
@@ -2180,7 +2368,8 @@ window.EVENTS = {
    "title": "COC Free Concert: Poèmes en Musique (Glenn Gould School)",
    "url": "https://www.coc.ca/tickets/2627-season/poemes-en-musique",
    "type": "concert",
-   "time": "12:00"
+   "time": "12:00",
+   "genre": "classical"
   },
   {
    "venue": "harbourfront-centre",
@@ -2196,7 +2385,8 @@ window.EVENTS = {
    "title": "Robert Chapman Quartet",
    "url": "https://www.therex.ca/events/robert-chapman-quartet-1",
    "type": "concert",
-   "time": "17:00"
+   "time": "17:00",
+   "genre": "jazz"
   },
   {
    "venue": "cameron-house",
@@ -2212,7 +2402,8 @@ window.EVENTS = {
    "title": "Night Service w/ DJ Phil Tessis",
    "url": "https://thedrake.ca/event/night-service-w-dj-phil-tessis-7/",
    "type": "party",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "electronic"
   },
   {
    "venue": "grossmans",
@@ -2220,7 +2411,8 @@ window.EVENTS = {
    "title": "Hold the Bus",
    "url": "https://grossmanstavern.com/event/hold-the-bus-17/",
    "type": "concert",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "blues"
   },
   {
    "venue": "garrison",
@@ -2228,7 +2420,8 @@ window.EVENTS = {
    "title": "Missio w/ Oxymorons, Kent Osborne",
    "url": "https://www.ticketmaster.ca/event/1000650AF4CE612B",
    "type": "concert",
-   "time": "18:30"
+   "time": "18:30",
+   "genre": "indie"
   },
   {
    "venue": "sneaky-dees",
@@ -2236,7 +2429,8 @@ window.EVENTS = {
    "title": "Necrodios w/ Human Compost, Ubruxum, Vesication",
    "url": "https://www.livenation.com/event/rZ7HnEZ1AfC7of/necrodios-w-human-compost-ubruxum-vesication",
    "type": "concert",
-   "time": "18:30"
+   "time": "18:30",
+   "genre": "metal"
   },
   {
    "venue": "harbourfront-centre",
@@ -2252,7 +2446,8 @@ window.EVENTS = {
    "title": "Sloan",
    "url": "https://www.livenation.com/event/rZ7HnEZ1Afko-f/sloan",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "rock"
   },
   {
    "venue": "danforth-music-hall",
@@ -2260,7 +2455,8 @@ window.EVENTS = {
    "title": "Blackie and the Rodeo Kings",
    "url": "https://www.livenation.com/event/1AvZZ_FGkTERGFk/blackie-and-the-rodeo-kings",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "folk"
   },
   {
    "venue": "drake-hotel",
@@ -2300,7 +2496,8 @@ window.EVENTS = {
    "title": "Boy Golden",
    "url": "https://www.livenation.com/event/1k7ZvPAIGA2MQZP/boy-golden-good-goddamn-another-tour",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "folk"
   },
   {
    "venue": "phoenix",
@@ -2308,7 +2505,8 @@ window.EVENTS = {
    "title": "Los Prisioneros con Miguel Tapia",
    "url": "https://thephoenixconcerttheatre.com/events/event/los-prisioneros-con-miguel-tapia/",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "latin"
   },
   {
    "venue": "queen-elizabeth-theatre",
@@ -2316,7 +2514,8 @@ window.EVENTS = {
    "title": "INNA",
    "url": "https://admitone.com/events/inna-toronto-148209",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "pop"
   },
   {
    "venue": "four-seasons-centre",
@@ -2332,7 +2531,8 @@ window.EVENTS = {
    "title": "Charlie Parr",
    "url": "https://tixr.com/e/200844",
    "type": "concert",
-   "time": "19:30"
+   "time": "19:30",
+   "genre": "folk"
   },
   {
    "venue": "monarch-tavern",
@@ -2340,7 +2540,8 @@ window.EVENTS = {
    "title": "Cherry Garcia Band + Tell It To Sweeney",
    "url": "https://www.eventbrite.com/e/cherry-garcia-band-tell-it-to-sweeney-at-the-monarch-tavern-tickets-2001899856360",
    "type": "concert",
-   "time": "19:30"
+   "time": "19:30",
+   "genre": "tribute"
   },
   {
    "venue": "roy-thomson-hall",
@@ -2348,7 +2549,8 @@ window.EVENTS = {
    "title": "TSO: Mendelssohn's Scottish",
    "url": "https://roythomsonhall.mhrth.com/tickets/tso-mendelssohns-scottish/",
    "type": "concert",
-   "time": "19:30"
+   "time": "19:30",
+   "genre": "classical"
   },
   {
    "venue": "baby-g",
@@ -2356,7 +2558,8 @@ window.EVENTS = {
    "title": "Biblical + The Exploders (LP release) w/ Early Tombs",
    "url": "https://link.dice.fm/g7bc1106fc40",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "rock"
   },
   {
    "venue": "cameron-house",
@@ -2364,7 +2567,8 @@ window.EVENTS = {
    "title": "Jacob River Milnes (Back Room)",
    "url": "https://www.thecameron.com/events/jacob-river-milnes-backroom",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "country"
   },
   {
    "venue": "harbourfront-centre",
@@ -2380,7 +2584,8 @@ window.EVENTS = {
    "title": "Gryffin",
    "url": "https://www.ticketmaster.ca/gryffin-toronto-ontario-11-20-2026/event/100064BBC235E1BB",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "electronic"
   },
   {
    "venue": "koerner-hall",
@@ -2388,7 +2593,8 @@ window.EVENTS = {
    "title": "Naghash Ensemble + Karen Ouzounian + Amadeus Choir",
    "url": "https://www.rcmusic.com/concert/naghash-ensemble-karen-ouzounian-quartet-and-the-amadeus-choir-448401",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "world"
   },
   {
    "venue": "redwood-theatre",
@@ -2404,7 +2610,8 @@ window.EVENTS = {
    "title": "Larnell Lewis & Joy Lapps",
    "url": "https://www.therex.ca/events/larnell-lewis-joy-lapps-tpy9s-35m5r",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "jazz"
   },
   {
    "venue": "cameron-house",
@@ -2420,7 +2627,8 @@ window.EVENTS = {
    "title": "Latin Friday: Salsotika + Sarita Levya",
    "url": "https://www.eventbrite.ca/e/latin-friday-with-salsotika-sarita-levya-tickets-2004269413770",
    "type": "party",
-   "time": "20:30"
+   "time": "20:30",
+   "genre": "latin"
   },
   {
    "venue": "grossmans",
@@ -2436,7 +2644,8 @@ window.EVENTS = {
    "title": "The High Loves",
    "url": "https://www.thecameron.com/events/the-high-loves-5",
    "type": "concert",
-   "time": "22:00"
+   "time": "22:00",
+   "genre": "indie"
   },
   {
    "venue": "drake-hotel",
@@ -2452,7 +2661,8 @@ window.EVENTS = {
    "title": "80s & 90s Movie Soundtracks Video Dance Party",
    "url": "https://www.torontogothevents.com/events/80s-90s-movie-soundtracks-video-dance-party/",
    "type": "party",
-   "time": "22:00"
+   "time": "22:00",
+   "genre": "pop"
   },
   {
    "venue": "adelaide-hall",
@@ -2460,7 +2670,8 @@ window.EVENTS = {
    "title": "Bammy Fridays: Studio 876",
    "url": "https://admitone.com/events/other/community/other/bammy-fridays-studio-876/PMIVZ6",
    "type": "party",
-   "time": "22:30"
+   "time": "22:30",
+   "genre": "reggae"
   },
   {
    "venue": "sneaky-dees",
@@ -2468,7 +2679,8 @@ window.EVENTS = {
    "title": "Emo Night Toronto",
    "url": "https://www.livenation.com/event/rZ7HnEZ1AfQdjS/emo-night-toronto-at-sneaky-dee-s",
    "type": "party",
-   "time": "22:30"
+   "time": "22:30",
+   "genre": "punk"
   },
   {
    "venue": "lula-lounge",
@@ -2476,42 +2688,48 @@ window.EVENTS = {
    "title": "Cultura Panama: Descarga Solidaria",
    "url": "https://www.eventbrite.ca/e/cultura-panama-descarga-solidaria-tickets-2004379361627",
    "type": "party",
-   "time": "23:00"
+   "time": "23:00",
+   "genre": "latin"
   },
   {
    "venue": "elgin-theatre",
    "date": "2026-11-20",
    "title": "U of T Opera: Fall River, the legend of Lizzie Borden",
    "url": "https://www.heritagetrust.on.ca/ewg/calendar/uoft-opera-lizzie-borden?date=2026-11-20",
-   "type": "concert"
+   "type": "concert",
+   "genre": "classical"
   },
   {
    "venue": "hughs-room",
    "date": "2026-11-20",
    "title": "Hugh's Room Goes to Bollywood (Bageshree Vaze)",
    "url": "https://www.showpass.com/bageshree-vaze/",
-   "type": "concert"
+   "type": "concert",
+   "genre": "world"
   },
   {
    "venue": "lees-palace",
    "date": "2026-11-20",
    "title": "Man Is Five w/ Mad Iris, Mellow Casualty, Hockey Academy",
    "url": "https://events.leapevents.com/event/man-is-five-mad-iris-mellow-casualty-and-hockey-academy",
-   "type": "concert"
+   "type": "concert",
+   "genre": "punk"
   },
   {
    "venue": "lees-palace",
    "date": "2026-11-20",
    "title": "Rave Cave",
    "url": "https://events.leapevents.com/event/rave-cave-nov",
-   "type": "party"
+   "type": "party",
+   "genre": "electronic"
   },
   {
    "venue": "monarch-tavern",
    "date": "2026-11-20",
    "title": "Rare Groove w/ DJ Darren Sherry (upstairs)",
    "url": "https://www.themonarchtavern.com/",
-   "type": "party"
+   "type": "party",
+   "genre": "soul"
   },
   {
    "venue": "rebel",
@@ -2561,7 +2779,8 @@ window.EVENTS = {
    "title": "Old Friends: The Songs of Simon & Garfunkel",
    "url": "https://www.tolive.com/Event-Details-Page/reference/Simon-and-Garfunkel-2026",
    "type": "concert",
-   "time": "14:00"
+   "time": "14:00",
+   "genre": "tribute"
   },
   {
    "venue": "the-rex",
@@ -2569,7 +2788,8 @@ window.EVENTS = {
    "title": "Stephen Philip Harvey Jazz Orchestra",
    "url": "https://www.therex.ca/events/stephen-philip-harvey-jazz-orchestra",
    "type": "concert",
-   "time": "14:00"
+   "time": "14:00",
+   "genre": "jazz"
   },
   {
    "venue": "meridian-arts-centre",
@@ -2577,7 +2797,8 @@ window.EVENTS = {
    "title": "Toronto Youth Symphony Orchestra: Shostakovich Symphony No. 10",
    "url": "https://www.tso.ca/concerts-and-events/events/shostakovich-symphony-no-10",
    "type": "concert",
-   "time": "15:00"
+   "time": "15:00",
+   "genre": "classical"
   },
   {
    "venue": "free-times-cafe",
@@ -2593,7 +2814,8 @@ window.EVENTS = {
    "title": "The Happy Pals",
    "url": "https://grossmanstavern.com/event/the-happy-pals-135/",
    "type": "concert",
-   "time": "15:30"
+   "time": "15:30",
+   "genre": "jazz"
   },
   {
    "venue": "mazzoleni-hall",
@@ -2601,7 +2823,8 @@ window.EVENTS = {
    "title": "Taylor Academy Showcase Concert",
    "url": "https://www.rcmusic.com/concert/taylor-academy-showcase-concert-450801-1",
    "type": "concert",
-   "time": "16:30"
+   "time": "16:30",
+   "genre": "classical"
   },
   {
    "venue": "redwood-theatre",
@@ -2617,7 +2840,8 @@ window.EVENTS = {
    "title": "The Victor Bateman Trio",
    "url": "https://www.therex.ca/events/the-victor-bateman-trio",
    "type": "concert",
-   "time": "17:00"
+   "time": "17:00",
+   "genre": "jazz"
   },
   {
    "venue": "cameron-house",
@@ -2625,7 +2849,8 @@ window.EVENTS = {
    "title": "Paul Reddick",
    "url": "https://www.thecameron.com/events/paul-reddick-28",
    "type": "concert",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "blues"
   },
   {
    "venue": "drake-hotel",
@@ -2633,7 +2858,8 @@ window.EVENTS = {
    "title": "Night Service w/ Sinner & James",
    "url": "https://thedrake.ca/event/night-service-w-sinnerjames-4/",
    "type": "party",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "electronic"
   },
   {
    "venue": "sneaky-dees",
@@ -2641,7 +2867,8 @@ window.EVENTS = {
    "title": "Stuntman Down w/ Mixed Signal, Kippers, Dust Guide",
    "url": "https://www.livenation.com/event/rZ7HnEZ1AfCoAV/stuntman-down-w-mixed-signal-kippers-dust-guide",
    "type": "concert",
-   "time": "18:30"
+   "time": "18:30",
+   "genre": "punk"
   },
   {
    "venue": "baby-g",
@@ -2649,7 +2876,8 @@ window.EVENTS = {
    "title": "John's Cottage w/ Afterrain., Always Found",
    "url": "https://www.ticketweb.ca/event/johns-cottage-w-afterrain-the-baby-g-tickets/14391094",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "indie"
   },
   {
    "venue": "concert-hall",
@@ -2657,7 +2885,8 @@ window.EVENTS = {
    "title": "Sloan",
    "url": "https://www.livenation.com/event/rZ7HnEZ1AfFFA0/sloan",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "rock"
   },
   {
    "venue": "danforth-music-hall",
@@ -2665,7 +2894,8 @@ window.EVENTS = {
    "title": "The Watchmen",
    "url": "https://www.livenation.com/event/1A8Zk3aGkdf2odd/the-watchmen",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "rock"
   },
   {
    "venue": "drake-hotel",
@@ -2673,7 +2903,8 @@ window.EVENTS = {
    "title": "Victoria Staff",
    "url": "https://thedrake.ca/event/victoria-staff/",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "indie"
   },
   {
    "venue": "el-mocambo",
@@ -2681,7 +2912,8 @@ window.EVENTS = {
    "title": "Blue Silver – The Duran Duran Experience",
    "url": "https://elmocambo.com/event/blue-silver-the-duran-duran-experience/",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "tribute"
   },
   {
    "venue": "harbourfront-centre",
@@ -2697,7 +2929,8 @@ window.EVENTS = {
    "title": "Taylor Academy Encore",
    "url": "https://www.rcmusic.com/concert/taylor-academy-encore",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "classical"
   },
   {
    "venue": "meridian-hall",
@@ -2713,7 +2946,8 @@ window.EVENTS = {
    "title": "Protest the Hero",
    "url": "https://www.livenation.com/event/1A8ZkfkGkeNjjX2/protest-the-hero",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "metal"
   },
   {
    "venue": "queen-elizabeth-theatre",
@@ -2721,7 +2955,8 @@ window.EVENTS = {
    "title": "King",
    "url": "https://admitone.com/events/king-toronto-175957",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "hiphop"
   },
   {
    "venue": "rivoli",
@@ -2729,7 +2964,8 @@ window.EVENTS = {
    "title": "The Kubasonics",
    "url": "https://www.eventbrite.ca/e/kubasonics-tickets-2003368250366",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "world"
   },
   {
    "venue": "scotiabank-arena",
@@ -2746,7 +2982,8 @@ window.EVENTS = {
    "title": "Marci",
    "url": "https://link.dice.fm/Y96e228fe74f",
    "type": "concert",
-   "time": "19:30"
+   "time": "19:30",
+   "genre": "pop"
   },
   {
    "venue": "meridian-arts-centre",
@@ -2762,7 +2999,8 @@ window.EVENTS = {
    "title": "TSO: Mendelssohn's Scottish",
    "url": "https://www.tso.ca/concerts-and-events/events/mendelssohns-scottish",
    "type": "concert",
-   "time": "19:30"
+   "time": "19:30",
+   "genre": "classical"
   },
   {
    "venue": "cameron-house",
@@ -2778,7 +3016,8 @@ window.EVENTS = {
    "title": "Victoria Monét",
    "url": "https://www.coca-colacoliseum.com/events/detail/victoria-monet",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "rnb"
   },
   {
    "venue": "free-times-cafe",
@@ -2794,7 +3033,8 @@ window.EVENTS = {
    "title": "Ele Yan",
    "url": "https://greatcanadian.com/event/ele-yan/",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "pop"
   },
   {
    "venue": "history",
@@ -2802,7 +3042,8 @@ window.EVENTS = {
    "title": "Gryffin",
    "url": "https://www.ticketmaster.ca/gryffin-toronto-ontario-11-21-2026/event/100064BBC238E1C9",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "electronic"
   },
   {
    "venue": "horseshoe-tavern",
@@ -2810,7 +3051,8 @@ window.EVENTS = {
    "title": "The Messenger Birds",
    "url": "https://tixr.com/e/197444",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "rock"
   },
   {
    "venue": "hughs-room",
@@ -2818,7 +3060,8 @@ window.EVENTS = {
    "title": "Connie Kaldor",
    "url": "https://www.showpass.com/connie-kaldor-10/",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "folk"
   },
   {
    "venue": "monarch-tavern",
@@ -2826,7 +3069,8 @@ window.EVENTS = {
    "title": "Dabda + The Neverminds",
    "url": "https://dice.fm/event/6aa42b646b03960001547a69",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "indie"
   },
   {
    "venue": "the-rex",
@@ -2834,7 +3078,8 @@ window.EVENTS = {
    "title": "Larnell Lewis & Joy Lapps",
    "url": "https://www.therex.ca/events/larnell-lewis-joy-lapps-tpy9s-35m5r-ehyt9",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "jazz"
   },
   {
    "venue": "lula-lounge",
@@ -2842,7 +3087,8 @@ window.EVENTS = {
    "title": "Salsa Saturday: Luis Franco Tribute a La Dimension Latina",
    "url": "https://www.eventbrite.ca/e/luis-franco-tribute-a-la-dimension-latina-dj-van-gogh-teria-morada-tickets-2002113738086",
    "type": "party",
-   "time": "20:30"
+   "time": "20:30",
+   "genre": "latin"
   },
   {
    "venue": "el-mocambo",
@@ -2850,7 +3096,8 @@ window.EVENTS = {
    "title": "Eat a Peach (Allman Brothers tribute)",
    "url": "https://elmocambo.com/event/eat-a-peach/",
    "type": "concert",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "tribute"
   },
   {
    "venue": "grossmans",
@@ -2858,7 +3105,8 @@ window.EVENTS = {
    "title": "The Moving Violations",
    "url": "https://grossmanstavern.com/event/the-moving-violations-6/",
    "type": "concert",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "blues"
   },
   {
    "venue": "ground-control",
@@ -2866,7 +3114,8 @@ window.EVENTS = {
    "title": "Spellbound: Goth Video Dance Party (Joy Division spotlight)",
    "url": "https://www.eventbrite.ca/e/spellbound-goth-darkwave-post-punk-video-dance-w-joy-division-spotlight-tickets-2004332816409",
    "type": "party",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "goth"
   },
   {
    "venue": "adelaide-hall",
@@ -2890,7 +3139,8 @@ window.EVENTS = {
    "title": "Thank You For Listening w/ DJ Bia",
    "url": "https://thedrake.ca/event/thank-you-for-listening-12/",
    "type": "party",
-   "time": "22:00"
+   "time": "22:00",
+   "genre": "soul"
   },
   {
    "venue": "mod-club",
@@ -2898,7 +3148,8 @@ window.EVENTS = {
    "title": "Distant Matter",
    "url": "https://www.livenation.com/event/177Zv0G6uLte2Ve/distant-matter",
    "type": "party",
-   "time": "22:00"
+   "time": "22:00",
+   "genre": "electronic"
   },
   {
    "venue": "rivoli",
@@ -2906,7 +3157,8 @@ window.EVENTS = {
    "title": "K-Nights: 4 Year Anniversary Party",
    "url": "https://www.rivolitoronto.com/events/k-nights-4-year-anniversary-party",
    "type": "party",
-   "time": "22:30"
+   "time": "22:30",
+   "genre": "pop"
   },
   {
    "venue": "sneaky-dees",
@@ -2914,7 +3166,8 @@ window.EVENTS = {
    "title": "Bangerz Only: 2010s Dance Party",
    "url": "https://www.livenation.com/event/rZ7HnEZ1AKPtPf/bangerz-only-2010s-dance-party-at-sneaky-dee-s-nov-21-2026",
    "type": "party",
-   "time": "22:30"
+   "time": "22:30",
+   "genre": "pop"
   },
   {
    "venue": "drake-hotel",
@@ -2922,28 +3175,32 @@ window.EVENTS = {
    "title": "Ceylon Soul: Kingston × Colombo",
    "url": "https://thedrake.ca/event/ceylon-soul/",
    "type": "party",
-   "time": "23:00"
+   "time": "23:00",
+   "genre": "world"
   },
   {
    "venue": "elgin-theatre",
    "date": "2026-11-21",
    "title": "U of T Opera: Fall River, the legend of Lizzie Borden",
    "url": "https://www.heritagetrust.on.ca/ewg/calendar/uoft-opera-lizzie-borden?date=2026-11-21",
-   "type": "concert"
+   "type": "concert",
+   "genre": "classical"
   },
   {
    "venue": "lees-palace",
    "date": "2026-11-21",
    "title": "Yoi Toki w/ Saint Pepsi",
    "url": "https://events.leapevents.com/event/yoi-toki-w-saint-pepsi",
-   "type": "concert"
+   "type": "concert",
+   "genre": "electronic"
   },
   {
    "venue": "massey-hall",
    "date": "2026-11-21",
    "title": "The Original Gordon Lightfoot Band",
    "url": "https://masseyhall.mhrth.com/tickets/the-lightfoot-band/",
-   "type": "concert"
+   "type": "concert",
+   "genre": "folk"
   },
   {
    "venue": "monarch-tavern",
@@ -2958,7 +3215,8 @@ window.EVENTS = {
    "title": "GOOD SOUL (Sunday brunch DJs)",
    "url": "https://thedrake.ca/event/good-soul/",
    "type": "party",
-   "time": "11:00"
+   "time": "11:00",
+   "genre": "soul"
   },
   {
    "venue": "free-times-cafe",
@@ -2966,7 +3224,8 @@ window.EVENTS = {
    "title": "Klezmer Brunch w/ Babka Boys",
    "url": "https://eventstoronto.ca/event/buffet-brunch-bella-did-ya-eat-w-babka-boys",
    "type": "concert",
-   "time": "11:00"
+   "time": "11:00",
+   "genre": "world"
   },
   {
    "venue": "harbourfront-centre",
@@ -2990,7 +3249,8 @@ window.EVENTS = {
    "title": "Brett Polegato + Robert Kortgaard (Hugh's Goes Classical)",
    "url": "https://www.showpass.com/hughs-goes-classical-with-brett-polegato-and-robert-kortgaard/",
    "type": "concert",
-   "time": "14:00"
+   "time": "14:00",
+   "genre": "classical"
   },
   {
    "venue": "meridian-arts-centre",
@@ -3006,7 +3266,8 @@ window.EVENTS = {
    "title": "Quarteto da Rua",
    "url": "https://www.therex.ca/events/quarteto-da-rua",
    "type": "concert",
-   "time": "14:00"
+   "time": "14:00",
+   "genre": "jazz"
   },
   {
    "venue": "grossmans",
@@ -3014,7 +3275,8 @@ window.EVENTS = {
    "title": "New Orleans Connection All Star Jazz Band",
    "url": "https://grossmanstavern.com/event/new-orleans-connection-all-star-jazz-band-133/",
    "type": "concert",
-   "time": "15:00"
+   "time": "15:00",
+   "genre": "jazz"
   },
   {
    "venue": "koerner-hall",
@@ -3022,7 +3284,8 @@ window.EVENTS = {
    "title": "Daniil Trifonov",
    "url": "https://www.rcmusic.com/concert/daniil-trifonov-piano-427002",
    "type": "concert",
-   "time": "15:00"
+   "time": "15:00",
+   "genre": "classical"
   },
   {
    "venue": "meridian-arts-centre",
@@ -3030,7 +3293,8 @@ window.EVENTS = {
    "title": "TSO: Mendelssohn's Scottish",
    "url": "https://www.tso.ca/concerts-and-events/events/mendelssohns-scottish",
    "type": "concert",
-   "time": "15:00"
+   "time": "15:00",
+   "genre": "classical"
   },
   {
    "venue": "coca-cola-coliseum",
@@ -3063,7 +3327,8 @@ window.EVENTS = {
    "title": "Colonel Tom",
    "url": "https://www.thecameron.com/events/colonel-tom-2026-11-22-18-00",
    "type": "concert",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "country"
   },
   {
    "venue": "lula-lounge",
@@ -3071,7 +3336,8 @@ window.EVENTS = {
    "title": "TAYANNA",
    "url": "https://www.eventbrite.ca/e/tayanna-toronto-november-22-tickets-2003670644836",
    "type": "concert",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "pop"
   },
   {
    "venue": "rivoli",
@@ -3087,7 +3353,8 @@ window.EVENTS = {
    "title": "Raine Maida + Chantal Kreviazuk",
    "url": "https://www.livenation.com/event/177Zv0G61k0Q5QL/an-evening-with-raine-maida-chantal-kreviazuk",
    "type": "concert",
-   "time": "18:30"
+   "time": "18:30",
+   "genre": "pop"
   },
   {
    "venue": "mod-club",
@@ -3095,7 +3362,8 @@ window.EVENTS = {
    "title": "Maleek Berry",
    "url": "https://www.livenation.com/event/16vZZ_4QKG7HUam/maleek-berry",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "world"
   },
   {
    "venue": "opera-house",
@@ -3103,7 +3371,8 @@ window.EVENTS = {
    "title": "Giant Rooks",
    "url": "https://www.livenation.com/event/177Zv0G61p3gb1H/giant-rooks",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "indie"
   },
   {
    "venue": "scotiabank-arena",
@@ -3119,7 +3388,8 @@ window.EVENTS = {
    "title": "The Double Cuts",
    "url": "https://www.thecameron.com/events/the-double-cuts-2026-11-22-20-00",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "country"
   },
   {
    "venue": "free-times-cafe",
@@ -3135,7 +3405,8 @@ window.EVENTS = {
    "title": "Jermaine Holmes",
    "url": "https://tixr.com/e/209712",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "soul"
   },
   {
    "venue": "hughs-room",
@@ -3143,7 +3414,8 @@ window.EVENTS = {
    "title": "A Celtic Christmas – On The Lash",
    "url": "https://www.showpass.com/on-the-lash/",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "folk"
   },
   {
    "venue": "massey-hall",
@@ -3151,7 +3423,8 @@ window.EVENTS = {
    "title": "Little Big Town w/ Mae Estes",
    "url": "https://masseyhall.mhrth.com/tickets/little-big-town/",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "country"
   },
   {
    "venue": "the-rex",
@@ -3167,7 +3440,8 @@ window.EVENTS = {
    "title": "Hüsnü Şenlendirici",
    "url": "https://admitone.com/events/toronto/pro/other/adelaide-hall/artist/husnu-senlendirici/6ab29f3145e954b4420cb7c7",
    "type": "concert",
-   "time": "20:15"
+   "time": "20:15",
+   "genre": "world"
   },
   {
    "venue": "cameron-house",
@@ -3183,7 +3457,8 @@ window.EVENTS = {
    "title": "Sunday Jam Night Hosted by Ken Yoshioka",
    "url": "https://grossmanstavern.com/event/sunday-jam-night-hosted-by-ken-yoshioka-4/",
    "type": "concert",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "blues"
   },
   {
    "venue": "cameron-house",
@@ -3198,28 +3473,32 @@ window.EVENTS = {
    "date": "2026-11-22",
    "title": "U of T Opera: Fall River, the legend of Lizzie Borden",
    "url": "https://www.heritagetrust.on.ca/ewg/calendar/uoft-opera-lizzie-borden?date=2026-11-22",
-   "type": "concert"
+   "type": "concert",
+   "genre": "classical"
   },
   {
    "venue": "lees-palace",
    "date": "2026-11-22",
    "title": "Basht. w/ Gavin Mcleod & Lady Marge",
    "url": "https://events.leapevents.com/event/basht-w-gavin-mcleod-lady-marge",
-   "type": "concert"
+   "type": "concert",
+   "genre": "hiphop"
   },
   {
    "venue": "lees-palace",
    "date": "2026-11-22",
    "title": "XANNYWAXPARTY w/ JSKO, Kindapopping, Kennxdy, sm01",
    "url": "https://events.leapevents.com/event/xannywaxparty",
-   "type": "party"
+   "type": "party",
+   "genre": "electronic"
   },
   {
    "venue": "rebel",
    "date": "2026-11-22",
    "title": "Unplugged ft. VGHN + Skinny Fabulous",
    "url": "https://www.ticketgateway.com/event/view/unpluggedtoronto",
-   "type": "concert"
+   "type": "concert",
+   "genre": "world"
   },
   {
    "venue": "the-rex",
@@ -3227,7 +3506,8 @@ window.EVENTS = {
    "title": "University of Toronto Student Jazz Ensembles",
    "url": "https://www.therex.ca/events/university-of-toronto-student-jazz-ensembles-8s2bg-al9l6-x43w3-2y6yk-frtf6-hds2w",
    "type": "concert",
-   "time": "17:00"
+   "time": "17:00",
+   "genre": "jazz"
   },
   {
    "venue": "drake-hotel",
@@ -3235,7 +3515,8 @@ window.EVENTS = {
    "title": "Art of Crochet & Jazz",
    "url": "https://thedrake.ca/event/art-of-crochet-jazz-6/",
    "type": "concert",
-   "time": "18:30"
+   "time": "18:30",
+   "genre": "jazz"
   },
   {
    "venue": "scotiabank-arena",
@@ -3275,7 +3556,8 @@ window.EVENTS = {
    "title": "Steve Lucas Jazz Trio",
    "url": "https://www.therex.ca/events/steve-lucas-jazz-trio",
    "type": "concert",
-   "time": "17:00"
+   "time": "17:00",
+   "genre": "jazz"
   },
   {
    "venue": "cameron-house",
@@ -3283,7 +3565,8 @@ window.EVENTS = {
    "title": "Mattie Leon",
    "url": "https://www.thecameron.com/events/mattie-leon-2026-11-24-18-00",
    "type": "concert",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "folk"
   },
   {
    "venue": "drake-hotel",
@@ -3291,7 +3574,8 @@ window.EVENTS = {
    "title": "Tuesday Is My Friday w/ DJ Gil Masuda",
    "url": "https://thedrake.ca/event/tuesday-is-my-friday-w-dj-gil-masuda/",
    "type": "party",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "electronic"
   },
   {
    "venue": "history",
@@ -3299,7 +3583,8 @@ window.EVENTS = {
    "title": "Whitechapel",
    "url": "https://www.ticketmaster.ca/whitechapel-20th-anniversary-tour-toronto-ontario-11-24-2026/event/100064C28D00A1EC",
    "type": "concert",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "metal"
   },
   {
    "venue": "coca-cola-coliseum",
@@ -3307,7 +3592,8 @@ window.EVENTS = {
    "title": "Jessie Reyez",
    "url": "https://www.coca-colacoliseum.com/events/detail/jessie-reyez",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "rnb"
   },
   {
    "venue": "drake-hotel",
@@ -3315,7 +3601,8 @@ window.EVENTS = {
    "title": "Allan Rayman (Night 1)",
    "url": "https://thedrake.ca/event/allan-rayman-night-1/",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "rnb"
   },
   {
    "venue": "free-times-cafe",
@@ -3323,7 +3610,8 @@ window.EVENTS = {
    "title": "Songwriters' Open Stage w/ Russell Leon",
    "url": "https://eventstoronto.ca/event/songwriters-open-stage-w-russell-leon",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "folk"
   },
   {
    "venue": "garrison",
@@ -3339,7 +3627,8 @@ window.EVENTS = {
    "title": "midwxst",
    "url": "https://www.livenation.com/event/1A8Zk4kGkd7xfEg/midwxst",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "hiphop"
   },
   {
    "venue": "opera-house",
@@ -3347,7 +3636,8 @@ window.EVENTS = {
    "title": "Twentythree",
    "url": "https://www.livenation.com/event/1A8Zk4KGkdj8ngR/twentythree",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "hiphop"
   },
   {
    "venue": "lula-lounge",
@@ -3355,7 +3645,8 @@ window.EVENTS = {
    "title": "Jesse Ryan – New Aguinaldo anniversary album party",
    "url": "https://www.eventbrite.ca/e/jesse-ryan-new-aguinaldo-first-anniversary-album-party-tickets-2003385155931",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "jazz"
   },
   {
    "venue": "the-rex",
@@ -3363,7 +3654,8 @@ window.EVENTS = {
    "title": "Classic Rex Jazz Jam",
    "url": "https://www.therex.ca/events/kjhjzpwwktph5p6-5s2t9-dsfga-3tkpm-xra9d-rs6pr-5t68s-b6bdl-rdnh9-5ydnb-ywppw-tpclj-sjfap",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "jazz"
   },
   {
    "venue": "cameron-house",
@@ -3371,14 +3663,16 @@ window.EVENTS = {
    "title": "Vivienne Wilder",
    "url": "https://www.thecameron.com/events/vivienne-wilder-2026-11-24-21-00",
    "type": "concert",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "indie"
   },
   {
    "venue": "hughs-room",
    "date": "2026-11-24",
    "title": "Sisters in Songs: Daughters of Donbas + Hildá Länsman & Tuomas Norvio + GETCHNAH",
    "url": "https://www.showpass.com/sistersinsongs/",
-   "type": "concert"
+   "type": "concert",
+   "genre": "world"
   },
   {
    "venue": "harbourfront-centre",
@@ -3394,7 +3688,8 @@ window.EVENTS = {
    "title": "Devin Patten's the Afton Project",
    "url": "https://www.therex.ca/events/devin-pattens-the-afton-project",
    "type": "concert",
-   "time": "17:00"
+   "time": "17:00",
+   "genre": "jazz"
   },
   {
    "venue": "cameron-house",
@@ -3402,7 +3697,8 @@ window.EVENTS = {
    "title": "Justin Rutledge",
    "url": "https://www.thecameron.com/events/justin-rutledge-2026-11-25-18-00",
    "type": "concert",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "folk"
   },
   {
    "venue": "concert-hall",
@@ -3410,7 +3706,8 @@ window.EVENTS = {
    "title": "Suicide Silence w/ Emmure, AngelMaker",
    "url": "https://www.livenation.com/event/rZ7HnEZ1Afa_xf/suicide-silence-reminders-of-hell-tour",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "metal"
   },
   {
    "venue": "danforth-music-hall",
@@ -3418,7 +3715,8 @@ window.EVENTS = {
    "title": "The Pineapple Thief",
    "url": "https://www.livenation.com/event/1A8Zk36GkeYFqsv/the-pineapple-thief",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "rock"
   },
   {
    "venue": "drake-hotel",
@@ -3426,7 +3724,8 @@ window.EVENTS = {
    "title": "Allan Rayman (Night 2)",
    "url": "https://thedrake.ca/event/allan-rayman-night-2/",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "rnb"
   },
   {
    "venue": "free-times-cafe",
@@ -3442,7 +3741,8 @@ window.EVENTS = {
    "title": "TALK",
    "url": "https://www.livenation.com/event/1AvZZ_3GkikqEil/talk-feel-the-b-o-o-m-tour",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "indie"
   },
   {
    "venue": "rivoli",
@@ -3458,7 +3758,8 @@ window.EVENTS = {
    "title": "Doja Cat",
    "url": "https://www.scotiabankarena.com/events/detail/doja-cat-1",
    "type": "concert",
-   "time": "19:03"
+   "time": "19:03",
+   "genre": "pop"
   },
   {
    "venue": "hughs-room",
@@ -3474,7 +3775,8 @@ window.EVENTS = {
    "title": "Let Us Be Frank: A Tribute to Frank Sinatra",
    "url": "https://www.eventbrite.ca/e/let-us-be-frank-a-musical-tribute-to-frank-sinatra-tickets-2004089646080",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "tribute"
   },
   {
    "venue": "massey-hall",
@@ -3482,7 +3784,8 @@ window.EVENTS = {
    "title": "LW50: A Celebration of Bob Dylan and The Band",
    "url": "https://masseyhall.mhrth.com/tickets/lw50/",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "tribute"
   },
   {
    "venue": "the-rex",
@@ -3490,7 +3793,8 @@ window.EVENTS = {
    "title": "Triology ft Jodi Proznick",
    "url": "https://www.therex.ca/events/triology-ft-jodi-proznick",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "jazz"
   },
   {
    "venue": "cameron-house",
@@ -3506,21 +3810,24 @@ window.EVENTS = {
    "title": "Action Sound Band",
    "url": "https://grossmanstavern.com/event/action-sound-band-131/",
    "type": "concert",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "blues"
   },
   {
    "venue": "horseshoe-tavern",
    "date": "2026-11-25",
    "title": "The Boo Radley Project",
    "url": "https://tixr.com/e/214008",
-   "type": "concert"
+   "type": "concert",
+   "genre": "soul"
   },
   {
    "venue": "lees-palace",
    "date": "2026-11-25",
    "title": "Noise Machine (album release) w/ Stacks, Lia Pappas-Kemps, Lila Ravelle",
    "url": "https://events.leapevents.com/event/noise-machine-album-release",
-   "type": "concert"
+   "type": "concert",
+   "genre": "rock"
   },
   {
    "venue": "the-rex",
@@ -3528,7 +3835,8 @@ window.EVENTS = {
    "title": "Maureen Kennedy Trio",
    "url": "https://www.therex.ca/events/maureen-kennedy-trio",
    "type": "concert",
-   "time": "17:00"
+   "time": "17:00",
+   "genre": "jazz"
   },
   {
    "venue": "cameron-house",
@@ -3536,7 +3844,8 @@ window.EVENTS = {
    "title": "Corin Raymond",
    "url": "https://www.thecameron.com/events/corin-raymond-2026-11-26-18-00",
    "type": "concert",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "folk"
   },
   {
    "venue": "drake-hotel",
@@ -3544,7 +3853,8 @@ window.EVENTS = {
    "title": "Night Service: Jazz w/ Jesse Maxwell",
    "url": "https://thedrake.ca/event/night-service-jazz-w-jesse-maxwell-4/",
    "type": "concert",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "jazz"
   },
   {
    "venue": "free-times-cafe",
@@ -3560,7 +3870,8 @@ window.EVENTS = {
    "title": "Giant Tiger ('Sportsworld' EP release) w/ Pro Wrestling The Band, Mavis",
    "url": "https://link.dice.fm/t805b41d7346",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "rock"
   },
   {
    "venue": "danforth-music-hall",
@@ -3568,7 +3879,8 @@ window.EVENTS = {
    "title": "Default",
    "url": "https://www.livenation.com/event/177Zv0G6G5g4C9b/default-the-fallout-25th-anniversary-tour",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "rock"
   },
   {
    "venue": "drake-hotel",
@@ -3576,7 +3888,8 @@ window.EVENTS = {
    "title": "Fine Food Market",
    "url": "https://thedrake.ca/event/fine-food-market/",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "folk"
   },
   {
    "venue": "garrison",
@@ -3584,7 +3897,8 @@ window.EVENTS = {
    "title": "Lavender Town Plays Vocaloid w/ Ether 2006",
    "url": "https://link.dice.fm/sf523cb67df5",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "tribute"
   },
   {
    "venue": "history",
@@ -3592,7 +3906,8 @@ window.EVENTS = {
    "title": "Bonobo",
    "url": "https://www.ticketmaster.ca/bonobo-distance-in-static-live-north-toronto-ontario-11-26-2026/event/100064C2E945C866",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "electronic"
   },
   {
    "venue": "horseshoe-tavern",
@@ -3600,7 +3915,8 @@ window.EVENTS = {
    "title": "Mack Geiger",
    "url": "https://tixr.com/e/202743",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "country"
   },
   {
    "venue": "mod-club",
@@ -3608,7 +3924,8 @@ window.EVENTS = {
    "title": "TALK",
    "url": "https://www.livenation.com/event/1AvZZ_3Gkikr9iw/talk-feel-the-b-o-o-m-tour",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "indie"
   },
   {
    "venue": "opera-house",
@@ -3616,7 +3933,8 @@ window.EVENTS = {
    "title": "Takuya Nakamura",
    "url": "https://www.livenation.com/event/1A8Zkf0GkdfDseQ/takuya-nakamura",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "electronic"
   },
   {
    "venue": "royal-theatre",
@@ -3656,7 +3974,8 @@ window.EVENTS = {
    "title": "TSO: James Ehnes Plays Tchaikovsky",
    "url": "https://roythomsonhall.mhrth.com/tickets/tso-james-ehnes-plays-tchaikovsky/",
    "type": "concert",
-   "time": "19:30"
+   "time": "19:30",
+   "genre": "classical"
   },
   {
    "venue": "cameron-house",
@@ -3672,7 +3991,8 @@ window.EVENTS = {
    "title": "Tyla",
    "url": "https://www.coca-colacoliseum.com/events/detail/tyla",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "world"
   },
   {
    "venue": "grossmans",
@@ -3688,7 +4008,8 @@ window.EVENTS = {
    "title": "Lennie Gallant – Innkeeper's Christmas",
    "url": "https://www.showpass.com/lennie-gallant-innkeepers-christmas-2/",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "folk"
   },
   {
    "venue": "sneaky-dees",
@@ -3704,7 +4025,8 @@ window.EVENTS = {
    "title": "Triology ft Jodi Proznick",
    "url": "https://www.therex.ca/events/triology-ft-jodi-proznick-rpdn8",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "jazz"
   },
   {
    "venue": "918-bathurst",
@@ -3712,7 +4034,8 @@ window.EVENTS = {
    "title": "Bonfire: Tribute to The Beatles, Oasis & More",
    "url": "https://bandsintownpresents.com/bonfire/toronto/01040301",
    "type": "concert",
-   "time": "20:45"
+   "time": "20:45",
+   "genre": "tribute"
   },
   {
    "venue": "drake-hotel",
@@ -3720,7 +4043,8 @@ window.EVENTS = {
    "title": "Night Service: Deep House w/ DJ Mason Reeves",
    "url": "https://thedrake.ca/event/night-service-deep-house-w-dj-mason-reeves-7/",
    "type": "party",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "electronic"
   },
   {
    "venue": "ground-control",
@@ -3728,7 +4052,8 @@ window.EVENTS = {
    "title": "Serious Moonlight Thursdays w/ DJ Lazarus",
    "url": "https://www.torontogothevents.com/events/serious-moonlight-2026-11-26/",
    "type": "party",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "goth"
   },
   {
    "venue": "cameron-house",
@@ -3743,7 +4068,8 @@ window.EVENTS = {
    "date": "2026-11-26",
    "title": "Octavium + Guardians of Purgatory + Repartus",
    "url": "https://events.leapevents.com/event/octavium-guardians-of-purgatory-repartus",
-   "type": "concert"
+   "type": "concert",
+   "genre": "metal"
   },
   {
    "venue": "monarch-tavern",
@@ -3759,7 +4085,8 @@ window.EVENTS = {
    "title": "COC Free Concert: Winter in Paris (COC Ensemble Studio)",
    "url": "https://www.coc.ca/tickets/2627-season/winter-in-paris",
    "type": "concert",
-   "time": "12:00"
+   "time": "12:00",
+   "genre": "classical"
   },
   {
    "venue": "harbourfront-centre",
@@ -3775,7 +4102,8 @@ window.EVENTS = {
    "title": "Karl Silveira Quartet",
    "url": "https://www.therex.ca/events/karl-silveira-quartet",
    "type": "concert",
-   "time": "17:00"
+   "time": "17:00",
+   "genre": "jazz"
   },
   {
    "venue": "cameron-house",
@@ -3783,7 +4111,8 @@ window.EVENTS = {
    "title": "Matthew Barber",
    "url": "https://www.thecameron.com/events/matthew-barber",
    "type": "concert",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "folk"
   },
   {
    "venue": "great-canadian-theatre",
@@ -3791,7 +4120,8 @@ window.EVENTS = {
    "title": "Underoath w/ August Burns Red, Atreyu, Emery",
    "url": "https://greatcanadian.com/event/underoath/",
    "type": "concert",
-   "time": "18:30"
+   "time": "18:30",
+   "genre": "metal"
   },
   {
    "venue": "sneaky-dees",
@@ -3799,7 +4129,8 @@ window.EVENTS = {
    "title": "Allegion w/ DevilPlan, EBIRAH, Magna Ire",
    "url": "https://www.livenation.com/event/rZ7HnEZ1Af8eG7/allegion-w-devilplan-ebirah-magna-ire",
    "type": "concert",
-   "time": "18:30"
+   "time": "18:30",
+   "genre": "metal"
   },
   {
    "venue": "918-bathurst",
@@ -3807,7 +4138,8 @@ window.EVENTS = {
    "title": "Westelaken (album release) w/ Ben Mike & The Beatles",
    "url": "https://dandelion.events/e/g8hg7",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "indie"
   },
   {
    "venue": "danforth-music-hall",
@@ -3815,7 +4147,8 @@ window.EVENTS = {
    "title": "Steven Page",
    "url": "https://www.livenation.com/event/177Zv0G61rWVJwu/steven-page-steven-s-greetings-2026-tour",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "pop"
   },
   {
    "venue": "el-mocambo",
@@ -3823,7 +4156,8 @@ window.EVENTS = {
    "title": "The Yacht Rock Show",
    "url": "https://elmocambo.com/event/the-yacht-rock-show-returns/",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "tribute"
   },
   {
    "venue": "garrison",
@@ -3831,7 +4165,8 @@ window.EVENTS = {
    "title": "Father of Peace",
    "url": "https://www.ticketmaster.ca/event/100064D2C20443C5",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "indie"
   },
   {
    "venue": "grossmans",
@@ -3839,7 +4174,8 @@ window.EVENTS = {
    "title": "Sound Ideas Big Band",
    "url": "https://grossmanstavern.com/event/sound-ideas-big-band-7/",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "jazz"
   },
   {
    "venue": "horseshoe-tavern",
@@ -3847,7 +4183,8 @@ window.EVENTS = {
    "title": "GHOSTWOMAN",
    "url": "https://tixr.com/e/191940",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "rock"
   },
   {
    "venue": "opera-house",
@@ -3855,7 +4192,8 @@ window.EVENTS = {
    "title": "Tiny Habits",
    "url": "https://www.livenation.com/event/177Zv0G6ukHBRAw/tiny-habits",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "folk"
   },
   {
    "venue": "phoenix",
@@ -3863,7 +4201,8 @@ window.EVENTS = {
    "title": "Generation Next Live w/ Mountain Head, Avora Veil, Avalon Stone, Cevilain",
    "url": "https://thephoenixconcerttheatre.com/events/event/generation-next-live-with-mountain-head-avora-veil-avalon-stone-more/",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "rock"
   },
   {
    "venue": "queen-elizabeth-theatre",
@@ -3871,7 +4210,8 @@ window.EVENTS = {
    "title": "Avatar: The Last Airbender in Concert",
    "url": "https://admitone.com/events/avatar-the-last-airbender-toronto-171581",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "classical"
   },
   {
    "venue": "adelaide-hall",
@@ -3879,7 +4219,8 @@ window.EVENTS = {
    "title": "Sailin' Shoes + New Morning (Little Feat & Bob Dylan tributes)",
    "url": "https://admitone.com/events/other/community/other/sailin-shoes-and-new-morning-playing-the-music-of-little-feat-and-bob-dylan/BFRQI5",
    "type": "concert",
-   "time": "19:30"
+   "time": "19:30",
+   "genre": "tribute"
   },
   {
    "venue": "free-times-cafe",
@@ -3903,7 +4244,8 @@ window.EVENTS = {
    "title": "Indiana Jones: Raiders of the Lost Ark in Concert",
    "url": "https://www.tolive.com/Event-Details-Page/reference/Indiana-Jones-2026",
    "type": "concert",
-   "time": "19:30"
+   "time": "19:30",
+   "genre": "classical"
   },
   {
    "venue": "rivoli",
@@ -3919,7 +4261,8 @@ window.EVENTS = {
    "title": "Mahler's Symphony No. 8 (Mandle Philharmonic)",
    "url": "https://roythomsonhall.mhrth.com/tickets/mandle-philharmonic/",
    "type": "concert",
-   "time": "19:30"
+   "time": "19:30",
+   "genre": "classical"
   },
   {
    "venue": "scotiabank-arena",
@@ -3936,7 +4279,8 @@ window.EVENTS = {
    "title": "Ready The Prince + Waste Youth (EP release) w/ Shrewd",
    "url": "https://link.dice.fm/U8b6f560efc5",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "rock"
   },
   {
    "venue": "history",
@@ -3944,7 +4288,8 @@ window.EVENTS = {
    "title": "Zulan",
    "url": "https://www.ticketmaster.ca/zulan-toronto-ontario-11-27-2026/event/1000653EE8A98CDA",
    "type": "party",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "electronic"
   },
   {
    "venue": "koerner-hall",
@@ -3952,7 +4297,8 @@ window.EVENTS = {
    "title": "Royal Conservatory Orchestra w/ Tania Miller",
    "url": "https://www.rcmusic.com/concert/royal-conservatory-orchestra-with-conductor-tania",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "classical"
   },
   {
    "venue": "massey-hall",
@@ -3960,7 +4306,8 @@ window.EVENTS = {
    "title": "39th Annual Women's Blues Revue",
    "url": "https://masseyhall.mhrth.com/tickets/womens-blues-revue/",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "blues"
   },
   {
    "venue": "redwood-theatre",
@@ -3968,7 +4315,8 @@ window.EVENTS = {
    "title": "FM – 50 Year Mission",
    "url": "https://www.theredwoodtheatre.com/event-details/fm",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "rock"
   },
   {
    "venue": "the-rex",
@@ -3976,7 +4324,8 @@ window.EVENTS = {
    "title": "Triology ft Jodi Proznick",
    "url": "https://www.therex.ca/events/triology-ft-jodi-proznick-rpdn8-tsn3s",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "jazz"
   },
   {
    "venue": "cameron-house",
@@ -3992,7 +4341,8 @@ window.EVENTS = {
    "title": "Latin Friday: Cafe Cubano",
    "url": "https://www.eventbrite.ca/e/latin-friday-with-cafe-cubano-afrolatino-dance-tickets-2004270850066",
    "type": "party",
-   "time": "20:30"
+   "time": "20:30",
+   "genre": "latin"
   },
   {
    "venue": "bovine-sex-club",
@@ -4000,7 +4350,8 @@ window.EVENTS = {
    "title": "Baby's First Pistol w/ Chim Cheroo, Rawls Royce, Wake Up We're Toast",
    "url": "https://www.eventbrite.ca/e/babys-first-pistol-chim-cheroo-rawls-royce-wake-up-were-toast-tickets-2003546203629",
    "type": "concert",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "punk"
   },
   {
    "venue": "cameron-house",
@@ -4016,7 +4367,8 @@ window.EVENTS = {
    "title": "Frankie Foo",
    "url": "https://grossmanstavern.com/event/frankie-foo-32/",
    "type": "concert",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "blues"
   },
   {
    "venue": "ground-control",
@@ -4024,7 +4376,8 @@ window.EVENTS = {
    "title": "Digital Poodle w/ DJ Lazarus",
    "url": "https://www.torontogothevents.com/events/digital-poodle-with-dj-lazarus/",
    "type": "party",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "goth"
   },
   {
    "venue": "cameron-house",
@@ -4040,7 +4393,8 @@ window.EVENTS = {
    "title": "Reeves Brothers",
    "url": "https://thedrake.ca/event/reeves-brothers/",
    "type": "party",
-   "time": "22:00"
+   "time": "22:00",
+   "genre": "electronic"
   },
   {
    "venue": "sneaky-dees",
@@ -4048,7 +4402,8 @@ window.EVENTS = {
    "title": "Emo Night Toronto",
    "url": "https://www.livenation.com/event/rZ7HnEZ1AfQd_d/emo-night-toronto-at-sneaky-dee-s",
    "type": "party",
-   "time": "22:30"
+   "time": "22:30",
+   "genre": "punk"
   },
   {
    "venue": "lula-lounge",
@@ -4056,42 +4411,48 @@ window.EVENTS = {
    "title": "Dizzy & The Arsenals (Global Late Night)",
    "url": "https://www.eventbrite.ca/e/global-late-night-dizzy-the-arsenals-jamaican-ska-rocksteady-tickets-2003519973173",
    "type": "concert",
-   "time": "23:00"
+   "time": "23:00",
+   "genre": "reggae"
   },
   {
    "venue": "hughs-room",
    "date": "2026-11-27",
    "title": "Garnet Rogers",
    "url": "https://www.showpass.com/garnet-rogers-12/",
-   "type": "concert"
+   "type": "concert",
+   "genre": "folk"
   },
   {
    "venue": "lees-palace",
    "date": "2026-11-27",
    "title": "Heavy Dirty Dance – A 21 Pilots Dance Party",
    "url": "https://events.leapevents.com/event/heavy-dirty-dance-a-21-pilots-dance-party-26",
-   "type": "party"
+   "type": "party",
+   "genre": "indie"
   },
   {
    "venue": "lees-palace",
    "date": "2026-11-27",
    "title": "Temples w/ GIFT",
    "url": "https://events.leapevents.com/event/temples-lees-palace",
-   "type": "concert"
+   "type": "concert",
+   "genre": "indie"
   },
   {
    "venue": "monarch-tavern",
    "date": "2026-11-27",
    "title": "Rare Groove w/ DJ Darren Sherry (upstairs)",
    "url": "https://www.themonarchtavern.com/",
-   "type": "party"
+   "type": "party",
+   "genre": "soul"
   },
   {
    "venue": "rebel",
    "date": "2026-11-27",
    "title": "Carl Cox",
    "url": "https://www.ticketweb.ca/event/carl-cox-rebel-tickets/14887283",
-   "type": "party"
+   "type": "party",
+   "genre": "electronic"
   },
   {
    "venue": "drake-hotel",
@@ -4116,7 +4477,8 @@ window.EVENTS = {
    "title": "Get Together: 60's/70's Singalong",
    "url": "https://sueanddwight.com/event/6795858/786577199/get-together-in-person-60-s-70-s-singalong-full-band",
    "type": "concert",
-   "time": "14:00"
+   "time": "14:00",
+   "genre": "folk"
   },
   {
    "venue": "harbourfront-centre",
@@ -4140,7 +4502,8 @@ window.EVENTS = {
    "title": "Indiana Jones: Raiders of the Lost Ark in Concert",
    "url": "https://www.tolive.com/Event-Details-Page/reference/Indiana-Jones-2026",
    "type": "concert",
-   "time": "14:00"
+   "time": "14:00",
+   "genre": "classical"
   },
   {
    "venue": "the-rex",
@@ -4148,7 +4511,8 @@ window.EVENTS = {
    "title": "Raquel Marina Septet",
    "url": "https://www.therex.ca/events/raquel-marina-septet",
    "type": "concert",
-   "time": "14:00"
+   "time": "14:00",
+   "genre": "jazz"
   },
   {
    "venue": "grossmans",
@@ -4156,7 +4520,8 @@ window.EVENTS = {
    "title": "The Happy Pals",
    "url": "https://grossmanstavern.com/event/the-happy-pals-136/",
    "type": "concert",
-   "time": "15:30"
+   "time": "15:30",
+   "genre": "jazz"
   },
   {
    "venue": "coca-cola-coliseum",
@@ -4189,7 +4554,8 @@ window.EVENTS = {
    "title": "Lori Yates & the Velvetinas",
    "url": "https://www.thecameron.com/events/lori-yates-the-velvetinas-3",
    "type": "concert",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "country"
   },
   {
    "venue": "cameron-house",
@@ -4221,7 +4587,8 @@ window.EVENTS = {
    "title": "54-40",
    "url": "https://www.livenation.com/event/1AvZZ_FGkTPIDY9/54-40",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "rock"
   },
   {
    "venue": "el-mocambo",
@@ -4229,7 +4596,8 @@ window.EVENTS = {
    "title": "Coldplay Experience + Desire (U2 tribute)",
    "url": "https://elmocambo.com/event/coldplay-experience-desire-u2-tribute/",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "tribute"
   },
   {
    "venue": "el-mocambo",
@@ -4237,7 +4605,8 @@ window.EVENTS = {
    "title": "Rock for the Cause: Nottoria + Dom Nesci Music",
    "url": "https://elmocambo.com/event/rock-for-the-cause-november-28/",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "rock"
   },
   {
    "venue": "mod-club",
@@ -4245,7 +4614,8 @@ window.EVENTS = {
    "title": "Lilyisthatyou",
    "url": "https://www.livenation.com/event/1k7Zv0PyGACbtTK/lilyisthatyou-the-flowers-have-feelings-tour",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "pop"
   },
   {
    "venue": "opera-house",
@@ -4253,7 +4623,8 @@ window.EVENTS = {
    "title": "Venna",
    "url": "https://www.livenation.com/event/1A8ZkfkGkdnKxEM/venna",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "jazz"
   },
   {
    "venue": "queen-elizabeth-theatre",
@@ -4261,7 +4632,8 @@ window.EVENTS = {
    "title": "Avatar: The Last Airbender in Concert",
    "url": "https://admitone.com/events/avatar-the-last-airbender-toronto-172677",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "classical"
   },
   {
    "venue": "redwood-theatre",
@@ -4269,7 +4641,8 @@ window.EVENTS = {
    "title": "Adam James Sings Sinatra",
    "url": "https://www.theredwoodtheatre.com/event-details/adam-james-sings-sinatra-and-beyond-1-3",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "tribute"
   },
   {
    "venue": "sneaky-dees",
@@ -4277,7 +4650,8 @@ window.EVENTS = {
    "title": "Dumb Crush",
    "url": "https://www.livenation.com/event/rZ7HnEZ1AfG-00/dumb-crush",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "rock"
   },
   {
    "venue": "free-times-cafe",
@@ -4293,7 +4667,8 @@ window.EVENTS = {
    "title": "Shiv & the Carvers (album release) w/ Dermabrasion, Ruby Doom",
    "url": "https://link.dice.fm/G786bcecb6c5",
    "type": "concert",
-   "time": "19:30"
+   "time": "19:30",
+   "genre": "punk"
   },
   {
    "venue": "roy-thomson-hall",
@@ -4301,7 +4676,8 @@ window.EVENTS = {
    "title": "TSO: James Ehnes Plays Tchaikovsky",
    "url": "https://roythomsonhall.mhrth.com/tickets/tso-james-ehnes-plays-tchaikovsky/",
    "type": "concert",
-   "time": "19:30"
+   "time": "19:30",
+   "genre": "classical"
   },
   {
    "venue": "baby-g",
@@ -4309,7 +4685,8 @@ window.EVENTS = {
    "title": "Young Friend w/ Lia Pappas-Kemps",
    "url": "https://link.dice.fm/q3a5c8039830",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "indie"
   },
   {
    "venue": "history",
@@ -4317,7 +4694,8 @@ window.EVENTS = {
    "title": "Josh Baker",
    "url": "https://www.ticketmaster.ca/josh-baker-toronto-ontario-11-28-2026/event/1000650CDAAADCE9",
    "type": "party",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "electronic"
   },
   {
    "venue": "hughs-room",
@@ -4325,7 +4703,8 @@ window.EVENTS = {
    "title": "Bob Dylan Tribute – Paul James Band",
    "url": "https://www.showpass.com/bob-dylan-tribute-paul-james-band-2/",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "tribute"
   },
   {
    "venue": "koerner-hall",
@@ -4333,7 +4712,8 @@ window.EVENTS = {
    "title": "Jean-Michel Blais",
    "url": "https://www.rcmusic.com/concert/jean-michel-blais-451801",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "classical"
   },
   {
    "venue": "massey-hall",
@@ -4341,7 +4721,8 @@ window.EVENTS = {
    "title": "Moneen: The Red Tree Anniversary",
    "url": "https://masseyhall.mhrth.com/tickets/moneen/",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "punk"
   },
   {
    "venue": "monarch-tavern",
@@ -4349,7 +4730,8 @@ window.EVENTS = {
    "title": "The Key Frames (reunion) w/ Derek Downham",
    "url": "https://www.eventbrite.ca/e/the-key-frames-reunion-special-w-derek-downham-tickets-2001303198741",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "folk"
   },
   {
    "venue": "scotiabank-arena",
@@ -4357,7 +4739,8 @@ window.EVENTS = {
    "title": "A Boogie wit da Hoodie",
    "url": "https://www.scotiabankarena.com/events/detail/a-boogie-wit-da-hoodie-1",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "hiphop"
   },
   {
    "venue": "the-rex",
@@ -4365,7 +4748,8 @@ window.EVENTS = {
    "title": "Triology ft Jodi Proznick",
    "url": "https://www.therex.ca/events/triology-ft-jodi-proznick-rpdn8-tsn3s-97nt9",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "jazz"
   },
   {
    "venue": "horseshoe-tavern",
@@ -4373,7 +4757,8 @@ window.EVENTS = {
    "title": "Tommy Youngsteen – Springsteen's \"Born to Run\"",
    "url": "https://tixr.com/e/186957",
    "type": "concert",
-   "time": "20:30"
+   "time": "20:30",
+   "genre": "tribute"
   },
   {
    "venue": "lula-lounge",
@@ -4381,7 +4766,8 @@ window.EVENTS = {
    "title": "Salsa Saturday: Tony Calderon & Orquesta Son del Barrio",
    "url": "https://www.eventbrite.ca/e/tony-calderon-orquesta-son-del-barrio-dj-van-gogh-dance-to-live-tickets-2003396062553",
    "type": "party",
-   "time": "20:30"
+   "time": "20:30",
+   "genre": "latin"
   },
   {
    "venue": "bovine-sex-club",
@@ -4389,7 +4775,8 @@ window.EVENTS = {
    "title": "The Corporation + The Filthy Radicals w/ Big Brother",
    "url": "https://www.songkick.com/concerts/43469842-corporation-at-bovine-sex-club",
    "type": "concert",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "punk"
   },
   {
    "venue": "cameron-house",
@@ -4397,7 +4784,8 @@ window.EVENTS = {
    "title": "Atlantic Rhythm Section",
    "url": "https://www.thecameron.com/events/atlantic-rhythm-section-3",
    "type": "concert",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "blues"
   },
   {
    "venue": "grossmans",
@@ -4405,7 +4793,8 @@ window.EVENTS = {
    "title": "Caution Jam",
    "url": "https://grossmanstavern.com/event/caution-jam-31/",
    "type": "concert",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "blues"
   },
   {
    "venue": "ground-control",
@@ -4413,7 +4802,8 @@ window.EVENTS = {
    "title": "PANIC: 80s/90s Video Dance Party (New Order spotlight)",
    "url": "https://www.eventbrite.ca/e/panic-80s90s-video-dance-party-w-new-order-spotlight-tickets-2004341357957",
    "type": "party",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "goth"
   },
   {
    "venue": "phoenix",
@@ -4421,7 +4811,8 @@ window.EVENTS = {
    "title": "STVW – Punk Rave w/ Rich Leo",
    "url": "https://thephoenixconcerttheatre.com/events/event/stvw-punk-rave-toronto/",
    "type": "party",
-   "time": "21:30"
+   "time": "21:30",
+   "genre": "electronic"
   },
   {
    "venue": "cameron-house",
@@ -4445,7 +4836,8 @@ window.EVENTS = {
    "title": "THROB 5th Anniversary Dance Party",
    "url": "https://www.eventbrite.ca/e/throb-turns-5-tickets-2004447439249",
    "type": "party",
-   "time": "22:30"
+   "time": "22:30",
+   "genre": "pop"
   },
   {
    "venue": "sneaky-dees",
@@ -4453,7 +4845,8 @@ window.EVENTS = {
    "title": "Sneaky 2000s Dance Party",
    "url": "https://www.livenation.com/event/rZ7HnEZ1AKPYZ0/sneaky-2000s-dance-party-at-sneaky-dee-s-nov-28-2026",
    "type": "party",
-   "time": "22:30"
+   "time": "22:30",
+   "genre": "pop"
   },
   {
    "venue": "the-rex",
@@ -4468,14 +4861,16 @@ window.EVENTS = {
    "date": "2026-11-28",
    "title": "Disorder Dark Danz Event",
    "url": "https://events.leapevents.com/event/disorder-dark-danz-event",
-   "type": "party"
+   "type": "party",
+   "genre": "goth"
   },
   {
    "venue": "lees-palace",
    "date": "2026-11-28",
    "title": "Kingdom Of Giants w/ Deadlands, Holy Wars, Night Rider & Napoleon",
    "url": "https://events.leapevents.com/event/kingdom-of-giants-w-deadlands-holy-wars",
-   "type": "concert"
+   "type": "concert",
+   "genre": "metal"
   },
   {
    "venue": "monarch-tavern",
@@ -4489,7 +4884,8 @@ window.EVENTS = {
    "date": "2026-11-28",
    "title": "Guvernment Reunion w/ Carl Cox",
    "url": "https://www.ticketweb.ca/event/guvnerment-reunion-rebel-tickets/14901603",
-   "type": "party"
+   "type": "party",
+   "genre": "electronic"
   },
   {
    "venue": "drake-hotel",
@@ -4497,7 +4893,8 @@ window.EVENTS = {
    "title": "GOOD SOUL (Sunday brunch DJs)",
    "url": "https://thedrake.ca/event/good-soul/",
    "type": "party",
-   "time": "11:00"
+   "time": "11:00",
+   "genre": "soul"
   },
   {
    "venue": "free-times-cafe",
@@ -4505,7 +4902,8 @@ window.EVENTS = {
    "title": "Klezmer Brunch w/ Yosi Landau",
    "url": "https://eventstoronto.ca/event/buffet-brunch-bella-did-ya-eat-w-yosi-landau",
    "type": "concert",
-   "time": "11:00"
+   "time": "11:00",
+   "genre": "world"
   },
   {
    "venue": "harbourfront-centre",
@@ -4537,7 +4935,8 @@ window.EVENTS = {
    "title": "Bogdan Gumenyuk Trio",
    "url": "https://www.therex.ca/events/bogdan-gumenyuk-trio",
    "type": "concert",
-   "time": "14:00"
+   "time": "14:00",
+   "genre": "jazz"
   },
   {
    "venue": "grossmans",
@@ -4545,7 +4944,8 @@ window.EVENTS = {
    "title": "New Orleans Connection All Star Jazz Band",
    "url": "https://grossmanstavern.com/event/new-orleans-connection-all-star-jazz-band-132/",
    "type": "concert",
-   "time": "15:00"
+   "time": "15:00",
+   "genre": "jazz"
   },
   {
    "venue": "roy-thomson-hall",
@@ -4553,7 +4953,8 @@ window.EVENTS = {
    "title": "TSO: James Ehnes Plays Tchaikovsky",
    "url": "https://roythomsonhall.mhrth.com/tickets/tso-james-ehnes-plays-tchaikovsky/",
    "type": "concert",
-   "time": "15:00"
+   "time": "15:00",
+   "genre": "classical"
   },
   {
    "venue": "coca-cola-coliseum",
@@ -4570,7 +4971,8 @@ window.EVENTS = {
    "title": "Laura Hubert Band",
    "url": "https://www.therex.ca/events/laura-hubert-band-2-rgl67-2fs3t-kpzrt-whmzk-9dxb7-a2f4b-pgejh",
    "type": "concert",
-   "time": "17:00"
+   "time": "17:00",
+   "genre": "jazz"
   },
   {
    "venue": "cameron-house",
@@ -4578,7 +4980,8 @@ window.EVENTS = {
    "title": "Colonel Tom",
    "url": "https://www.thecameron.com/events/colonel-tom-2026-11-29-18-00",
    "type": "concert",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "country"
   },
   {
    "venue": "opera-house",
@@ -4603,7 +5006,8 @@ window.EVENTS = {
    "title": "Flesh Prison w/ Pneumonia Breath, Volcate, Qwan, Knifetalk",
    "url": "https://www.livenation.com/event/rZ7HnEZ1AfGkGV/flesh-prison-w-pneumonia-breath-volcate-qwan-knifetalk",
    "type": "concert",
-   "time": "18:00"
+   "time": "18:00",
+   "genre": "metal"
   },
   {
    "venue": "concert-hall",
@@ -4611,7 +5015,8 @@ window.EVENTS = {
    "title": "Turnover w/ Nothing, Trauma Ray",
    "url": "https://www.livenation.com/event/1A8Zk40GkeIL_E7/turnover-down-on-earth-tour",
    "type": "concert",
-   "time": "18:30"
+   "time": "18:30",
+   "genre": "indie"
   },
   {
    "venue": "danforth-music-hall",
@@ -4619,7 +5024,8 @@ window.EVENTS = {
    "title": "Tyson Yoshi",
    "url": "https://www.livenation.com/event/1A8ZkfyGke06z_S/tyson-yoshi",
    "type": "concert",
-   "time": "18:30"
+   "time": "18:30",
+   "genre": "pop"
   },
   {
    "venue": "drake-hotel",
@@ -4627,7 +5033,8 @@ window.EVENTS = {
    "title": "Notes From The Crowd: Dustin Lowman + Shaylynn Anderson + The Down and Out",
    "url": "https://thedrake.ca/event/notes-from-the-crowd/",
    "type": "concert",
-   "time": "18:30"
+   "time": "18:30",
+   "genre": "folk"
   },
   {
    "venue": "garrison",
@@ -4635,7 +5042,8 @@ window.EVENTS = {
    "title": "The Mainliners w/ The Nu-Viles",
    "url": "https://www.ticketmaster.ca/event/10006531F3F5A674",
    "type": "concert",
-   "time": "18:30"
+   "time": "18:30",
+   "genre": "punk"
   },
   {
    "venue": "cameron-house",
@@ -4651,7 +5059,8 @@ window.EVENTS = {
    "title": "Fresa Salvaje",
    "url": "https://www.eventbrite.ca/e/fresa-salvaje-at-lula-lounge-tickets-2004661664001",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "latin"
   },
   {
    "venue": "meridian-arts-centre",
@@ -4667,7 +5076,8 @@ window.EVENTS = {
    "title": "Minsoo Sohn: Bach – The Well-Tempered Clavier",
    "url": "https://www.tolive.com/Event-Details-Page/reference/Minsoo-Sohn-2026",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "classical"
   },
   {
    "venue": "mod-club",
@@ -4675,7 +5085,8 @@ window.EVENTS = {
    "title": "Sasha Alex Sloan",
    "url": "https://www.livenation.com/event/15vZZ_fkpGMFt/an-evening-with-sasha-alex-sloan-and-the-crowd-goes-mild-tour",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "pop"
   },
   {
    "venue": "free-times-cafe",
@@ -4699,7 +5110,8 @@ window.EVENTS = {
    "title": "Mistaken For Wayne w/ Hemlock, Robinson Kirby",
    "url": "https://link.dice.fm/l1e97886a49b",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "country"
   },
   {
    "venue": "cameron-house",
@@ -4707,7 +5119,8 @@ window.EVENTS = {
    "title": "The Double Cuts",
    "url": "https://www.thecameron.com/events/the-double-cuts-2026-11-29-20-00",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "country"
   },
   {
    "venue": "great-canadian-theatre",
@@ -4715,7 +5128,8 @@ window.EVENTS = {
    "title": "Jubin Nautiyal",
    "url": "https://greatcanadian.com/event/jubin-nautiyal/",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "world"
   },
   {
    "venue": "koerner-hall",
@@ -4723,7 +5137,8 @@ window.EVENTS = {
    "title": "Esprit Orchestra: FAST!",
    "url": "https://www.rcmusic.com/concert/esprit-orchestra-presents-fast-467001",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "classical"
   },
   {
    "venue": "the-rex",
@@ -4731,7 +5146,8 @@ window.EVENTS = {
    "title": "Rebecca Hennessy's Maps And Photographs Album Release Show",
    "url": "https://www.therex.ca/events/rebecca-hennessys-maps-and-photographs-album-release-show",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "jazz"
   },
   {
    "venue": "grossmans",
@@ -4739,7 +5155,8 @@ window.EVENTS = {
    "title": "Sunday Jam Night Hosted by Fried Angels",
    "url": "https://grossmanstavern.com/event/sunday-jam-night-hosted-by-fried-angels-8/",
    "type": "concert",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "blues"
   },
   {
    "venue": "cameron-house",
@@ -4755,7 +5172,8 @@ window.EVENTS = {
    "title": "Humber College Student Jazz Ensembles",
    "url": "https://www.therex.ca/events/humber-college-student-jazz-ensembles-tzr6b-epwcp-dyy7z",
    "type": "concert",
-   "time": "17:00"
+   "time": "17:00",
+   "genre": "jazz"
   },
   {
    "venue": "danforth-music-hall",
@@ -4771,7 +5189,8 @@ window.EVENTS = {
    "title": "Song Dongye",
    "url": "https://admitone.com/events/song-dongye-toronto-179498",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "folk"
   },
   {
    "venue": "scotiabank-arena",
@@ -4788,7 +5207,8 @@ window.EVENTS = {
    "title": "Allan Rayman: 10 Year Experience",
    "url": "https://www.ticketmaster.ca/event/100065110AFCB4ED",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "rnb"
   },
   {
    "venue": "the-rex",
@@ -4796,7 +5216,8 @@ window.EVENTS = {
    "title": "John Macleod's Rex Hotel Orchestra",
    "url": "https://www.therex.ca/events/john-macleods-rex-hotel-orchestra-5-xxs3s-fm7xf-5cgcc-angwd",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "jazz"
   },
   {
    "venue": "cameron-house",
@@ -4804,7 +5225,8 @@ window.EVENTS = {
    "title": "Friendly Rich & the Lollipop People",
    "url": "https://www.thecameron.com/events/friendly-rich-the-lollipop-people-18",
    "type": "concert",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "experimental"
   },
   {
    "venue": "concert-hall",
@@ -4812,7 +5234,8 @@ window.EVENTS = {
    "title": "Dax",
    "url": "https://www.livenation.com/event/1A8ZkfUGkdRqpNX/dax-the-anger-management-tour",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "hiphop"
   },
   {
    "venue": "koerner-hall",
@@ -4820,7 +5243,8 @@ window.EVENTS = {
    "title": "Oscar Peterson Program",
    "url": "https://www.rcmusic.com/concert/oscar-peterson-program-478001",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "jazz"
   },
   {
    "venue": "meridian-arts-centre",
@@ -4836,7 +5260,8 @@ window.EVENTS = {
    "title": "bleood",
    "url": "https://thephoenixconcerttheatre.com/events/event/bleood/",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "hiphop"
   },
   {
    "venue": "free-times-cafe",
@@ -4844,7 +5269,8 @@ window.EVENTS = {
    "title": "Tuesday Songwriters' Open Stage",
    "url": "https://www.freetimescafe.com/",
    "type": "concert",
-   "time": "19:30"
+   "time": "19:30",
+   "genre": "folk"
   },
   {
    "venue": "harbourfront-centre",
@@ -4859,7 +5285,8 @@ window.EVENTS = {
    "date": "2026-12-01",
    "title": "Còig Christmas",
    "url": "https://www.showpass.com/coig-christmas/",
-   "type": "concert"
+   "type": "concert",
+   "genre": "folk"
   },
   {
    "venue": "lees-palace",
@@ -4882,7 +5309,8 @@ window.EVENTS = {
    "title": "DragonForce",
    "url": "https://www.ticketmaster.ca/dragonforce-inhuman-rampage-20th-anniversary-toronto-ontario-12-02-2026/event/100064B49FDEC218",
    "type": "concert",
-   "time": "18:30"
+   "time": "18:30",
+   "genre": "metal"
   },
   {
    "venue": "baby-g",
@@ -4890,7 +5318,8 @@ window.EVENTS = {
    "title": "Robber Robber",
    "url": "https://link.dice.fm/ie06765af256",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "indie"
   },
   {
    "venue": "drake-hotel",
@@ -4898,7 +5327,8 @@ window.EVENTS = {
    "title": "daine",
    "url": "https://thedrake.ca/event/daine/",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "pop"
   },
   {
    "venue": "drake-hotel",
@@ -4906,7 +5336,8 @@ window.EVENTS = {
    "title": "Josie Edwards",
    "url": "https://thedrake.ca/event/josie-edwards/",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "pop"
   },
   {
    "venue": "garrison",
@@ -4914,7 +5345,8 @@ window.EVENTS = {
    "title": "Daine",
    "url": "https://www.ticketmaster.ca/event/1000650AB83617F9",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "punk"
   },
   {
    "venue": "koerner-hall",
@@ -4922,7 +5354,8 @@ window.EVENTS = {
    "title": "Roby Lakatos",
    "url": "https://www.rcmusic.com/concert/roby-lakatos-447601",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "world"
   },
   {
    "venue": "meridian-arts-centre",
@@ -4938,7 +5371,8 @@ window.EVENTS = {
    "title": "2Dead Boyz + The Underachievers",
    "url": "https://www.livenation.com/event/1AvZZ_3GkD_Jpf8/2dead-boyz-x-the-underachievers",
    "type": "concert",
-   "time": "19:00"
+   "time": "19:00",
+   "genre": "hiphop"
   },
   {
    "venue": "rivoli",
@@ -4970,7 +5404,8 @@ window.EVENTS = {
    "title": "Samara Joy w/ Toronto Symphony Orchestra",
    "url": "https://roythomsonhall.mhrth.com/tickets/samara-joy/",
    "type": "concert",
-   "time": "19:30"
+   "time": "19:30",
+   "genre": "jazz"
   },
   {
    "venue": "horseshoe-tavern",
@@ -4978,7 +5413,8 @@ window.EVENTS = {
    "title": "Bill Kirchen Honky Tonk Holiday",
    "url": "https://tixr.com/e/203431",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "country"
   },
   {
    "venue": "massey-hall",
@@ -4986,7 +5422,8 @@ window.EVENTS = {
    "title": "The Andy Kim Christmas",
    "url": "https://masseyhall.mhrth.com/tickets/andy-kim/",
    "type": "concert",
-   "time": "20:00"
+   "time": "20:00",
+   "genre": "pop"
   },
   {
    "venue": "grossmans",
@@ -4994,14 +5431,16 @@ window.EVENTS = {
    "title": "Action Sound Band",
    "url": "https://grossmanstavern.com/event/action-sound-band-132/",
    "type": "concert",
-   "time": "21:00"
+   "time": "21:00",
+   "genre": "blues"
   },
   {
    "venue": "hughs-room",
    "date": "2026-12-02",
    "title": "Strange Brood: Fresh Cream 60th Anniversary",
    "url": "https://www.showpass.com/strange-brood-fresh-cream-60-th-anniversary-celebration/",
-   "type": "concert"
+   "type": "concert",
+   "genre": "tribute"
   }
  ]
 };

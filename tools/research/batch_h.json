@@ -5,7 +5,8 @@
   "title": "Corin Raymond",
   "url": "https://www.thecameron.com/events/corin-raymond-2026-11-12-18-00",
   "type": "concert",
-  "time": "18:00"
+  "time": "18:00",
+  "genre": "folk"
  },
  {
   "venue": "cameron-house",
@@ -37,7 +38,8 @@
   "title": "Fraser Melvin Blues Band",
   "url": "https://www.thecameron.com/events/fraser-melvin-blues-band-2026-11-13-22-00",
   "type": "concert",
-  "time": "22:00"
+  "time": "22:00",
+  "genre": "blues"
  },
  {
   "venue": "cameron-house",
@@ -45,7 +47,8 @@
   "title": "Big Tobacco & the Pickers",
   "url": "https://www.thecameron.com/events/big-tobacco-the-pickers-2026-11-14-18-00",
   "type": "concert",
-  "time": "18:00"
+  "time": "18:00",
+  "genre": "folk"
  },
  {
   "venue": "cameron-house",
@@ -77,7 +80,8 @@
   "title": "Colonel Tom",
   "url": "https://www.thecameron.com/events/colonel-tom-2026-11-15-18-00",
   "type": "concert",
-  "time": "18:00"
+  "time": "18:00",
+  "genre": "country"
  },
  {
   "venue": "cameron-house",
@@ -85,7 +89,8 @@
   "title": "The Double Cuts",
   "url": "https://www.thecameron.com/events/the-double-cuts-2026-11-15-20-00",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "country"
  },
  {
   "venue": "cameron-house",
@@ -109,7 +114,8 @@
   "title": "Mattie Leon",
   "url": "https://www.thecameron.com/events/mattie-leon-2026-11-17-18-00",
   "type": "concert",
-  "time": "18:00"
+  "time": "18:00",
+  "genre": "folk"
  },
  {
   "venue": "cameron-house",
@@ -117,7 +123,8 @@
   "title": "Vivienne Wilder",
   "url": "https://www.thecameron.com/events/vivienne-wilder-2026-11-17-21-00",
   "type": "concert",
-  "time": "21:00"
+  "time": "21:00",
+  "genre": "indie"
  },
  {
   "venue": "cameron-house",
@@ -125,7 +132,8 @@
   "title": "Justin Rutledge",
   "url": "https://www.thecameron.com/events/justin-rutledge-2026-11-18-18-00",
   "type": "concert",
-  "time": "18:00"
+  "time": "18:00",
+  "genre": "folk"
  },
  {
   "venue": "cameron-house",
@@ -141,7 +149,8 @@
   "title": "Corin Raymond",
   "url": "https://www.thecameron.com/events/corin-raymond-2026-11-19-18-00",
   "type": "concert",
-  "time": "18:00"
+  "time": "18:00",
+  "genre": "folk"
  },
  {
   "venue": "cameron-house",
@@ -165,7 +174,8 @@
   "title": "Jacob River Milnes (Back Room)",
   "url": "https://www.thecameron.com/events/jacob-river-milnes-backroom",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "country"
  },
  {
   "venue": "cameron-house",
@@ -181,7 +191,8 @@
   "title": "The High Loves",
   "url": "https://www.thecameron.com/events/the-high-loves-5",
   "type": "concert",
-  "time": "22:00"
+  "time": "22:00",
+  "genre": "indie"
  },
  {
   "venue": "cameron-house",
@@ -189,7 +200,8 @@
   "title": "Paul Reddick",
   "url": "https://www.thecameron.com/events/paul-reddick-28",
   "type": "concert",
-  "time": "18:00"
+  "time": "18:00",
+  "genre": "blues"
  },
  {
   "venue": "cameron-house",
@@ -213,7 +225,8 @@
   "title": "Colonel Tom",
   "url": "https://www.thecameron.com/events/colonel-tom-2026-11-22-18-00",
   "type": "concert",
-  "time": "18:00"
+  "time": "18:00",
+  "genre": "country"
  },
  {
   "venue": "cameron-house",
@@ -221,7 +234,8 @@
   "title": "The Double Cuts",
   "url": "https://www.thecameron.com/events/the-double-cuts-2026-11-22-20-00",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "country"
  },
  {
   "venue": "cameron-house",
@@ -253,7 +267,8 @@
   "title": "Mattie Leon",
   "url": "https://www.thecameron.com/events/mattie-leon-2026-11-24-18-00",
   "type": "concert",
-  "time": "18:00"
+  "time": "18:00",
+  "genre": "folk"
  },
  {
   "venue": "cameron-house",
@@ -261,7 +276,8 @@
   "title": "Vivienne Wilder",
   "url": "https://www.thecameron.com/events/vivienne-wilder-2026-11-24-21-00",
   "type": "concert",
-  "time": "21:00"
+  "time": "21:00",
+  "genre": "indie"
  },
  {
   "venue": "cameron-house",
@@ -269,7 +285,8 @@
   "title": "Justin Rutledge",
   "url": "https://www.thecameron.com/events/justin-rutledge-2026-11-25-18-00",
   "type": "concert",
-  "time": "18:00"
+  "time": "18:00",
+  "genre": "folk"
  },
  {
   "venue": "cameron-house",
@@ -285,7 +302,8 @@
   "title": "Corin Raymond",
   "url": "https://www.thecameron.com/events/corin-raymond-2026-11-26-18-00",
   "type": "concert",
-  "time": "18:00"
+  "time": "18:00",
+  "genre": "folk"
  },
  {
   "venue": "cameron-house",
@@ -309,7 +327,8 @@
   "title": "Matthew Barber",
   "url": "https://www.thecameron.com/events/matthew-barber",
   "type": "concert",
-  "time": "18:00"
+  "time": "18:00",
+  "genre": "folk"
  },
  {
   "venue": "cameron-house",
@@ -341,7 +360,8 @@
   "title": "Lori Yates & the Velvetinas",
   "url": "https://www.thecameron.com/events/lori-yates-the-velvetinas-3",
   "type": "concert",
-  "time": "18:00"
+  "time": "18:00",
+  "genre": "country"
  },
  {
   "venue": "cameron-house",
@@ -365,7 +385,8 @@
   "title": "Atlantic Rhythm Section",
   "url": "https://www.thecameron.com/events/atlantic-rhythm-section-3",
   "type": "concert",
-  "time": "21:00"
+  "time": "21:00",
+  "genre": "blues"
  },
  {
   "venue": "cameron-house",
@@ -381,7 +402,8 @@
   "title": "Colonel Tom",
   "url": "https://www.thecameron.com/events/colonel-tom-2026-11-29-18-00",
   "type": "concert",
-  "time": "18:00"
+  "time": "18:00",
+  "genre": "country"
  },
  {
   "venue": "cameron-house",
@@ -397,7 +419,8 @@
   "title": "The Double Cuts",
   "url": "https://www.thecameron.com/events/the-double-cuts-2026-11-29-20-00",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "country"
  },
  {
   "venue": "cameron-house",
@@ -413,7 +436,8 @@
   "title": "Friendly Rich & the Lollipop People",
   "url": "https://www.thecameron.com/events/friendly-rich-the-lollipop-people-18",
   "type": "concert",
-  "time": "21:00"
+  "time": "21:00",
+  "genre": "experimental"
  },
  {
   "venue": "drom-taberna",
@@ -421,7 +445,8 @@
   "title": "Alyssa Giammaria",
   "url": "https://www.dromtaberna.com/events/alyssa-giammaria-20261112-1815",
   "type": "concert",
-  "time": "18:15"
+  "time": "18:15",
+  "genre": "jazz"
  },
  {
   "venue": "drom-taberna",
@@ -429,7 +454,8 @@
   "title": "The Estrelas",
   "url": "https://www.dromtaberna.com/events/the-estrelas-20261112-2030",
   "type": "concert",
-  "time": "20:30"
+  "time": "20:30",
+  "genre": "world"
  },
  {
   "venue": "drom-taberna",
@@ -437,7 +463,8 @@
   "title": "Heavy Metal Klezmer",
   "url": "https://www.dromtaberna.com/events/heavy-metal-klezmer-20261113-2030",
   "type": "concert",
-  "time": "20:30"
+  "time": "20:30",
+  "genre": "world"
  },
  {
   "venue": "drom-taberna",
@@ -445,7 +472,8 @@
   "title": "Tara Moneka",
   "url": "https://www.dromtaberna.com/events/tara-moneka-20261113-2330",
   "type": "concert",
-  "time": "23:30"
+  "time": "23:30",
+  "genre": "world"
  },
  {
   "venue": "drom-taberna",
@@ -453,7 +481,8 @@
   "title": "Bedspring Symphony",
   "url": "https://www.dromtaberna.com/events/bedspring-symphony-20261114-0230",
   "type": "concert",
-  "time": "02:30"
+  "time": "02:30",
+  "genre": "rock"
  },
  {
   "venue": "drom-taberna",
@@ -469,7 +498,8 @@
   "title": "Café Aman Nights: Memories of the East",
   "url": "https://www.dromtaberna.com/events/cafe-aman-nights-memories-of-the-east-20261114-2030",
   "type": "concert",
-  "time": "20:30"
+  "time": "20:30",
+  "genre": "world"
  },
  {
   "venue": "drom-taberna",
@@ -477,7 +507,8 @@
   "title": "Majd Sukar & Sham Blues",
   "url": "https://www.dromtaberna.com/events/majd-sukar-sham-blues-20261114-2330",
   "type": "concert",
-  "time": "23:30"
+  "time": "23:30",
+  "genre": "world"
  },
  {
   "venue": "drom-taberna",
@@ -485,7 +516,8 @@
   "title": "Barrow Gang Buskers",
   "url": "https://www.dromtaberna.com/events/barrow-gang-buskers-20261115-0230",
   "type": "concert",
-  "time": "02:30"
+  "time": "02:30",
+  "genre": "rock"
  },
  {
   "venue": "drom-taberna",
@@ -501,7 +533,8 @@
   "title": "High Loves (Alex & Ananta Birthday Party)",
   "url": "https://www.dromtaberna.com/events/alex-and-ananta-birthday-party-20261115-2330",
   "type": "concert",
-  "time": "23:30"
+  "time": "23:30",
+  "genre": "indie"
  },
  {
   "venue": "free-times-cafe",
@@ -533,7 +566,8 @@
   "title": "Get Together: 60's/70's Singalong",
   "url": "https://eventstoronto.ca/event/open-stage",
   "type": "concert",
-  "time": "14:00"
+  "time": "14:00",
+  "genre": "folk"
  },
  {
   "venue": "free-times-cafe",
@@ -541,7 +575,8 @@
   "title": "Ismael De La Torre + Karel Leyva Ferrer",
   "url": "https://eventstoronto.ca/event/cuba-sings-blossoms-presents-ismael-de-la-torre-karel-leyva-ferrer",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "latin"
  },
  {
   "venue": "free-times-cafe",
@@ -549,7 +584,8 @@
   "title": "Klezmer Brunch w/ Isaac Muzikansky & Friends",
   "url": "https://eventstoronto.ca/event/buffet-brunch-bella-did-ya-eat-w-isaac-muzikansky-friends",
   "type": "concert",
-  "time": "11:00"
+  "time": "11:00",
+  "genre": "world"
  },
  {
   "venue": "free-times-cafe",
@@ -573,7 +609,8 @@
   "title": "Tuesday Songwriters' Open Stage",
   "url": "https://www.freetimescafe.com/",
   "type": "concert",
-  "time": "19:30"
+  "time": "19:30",
+  "genre": "folk"
  },
  {
   "venue": "free-times-cafe",
@@ -581,7 +618,8 @@
   "title": "Songwriters Showcase",
   "url": "https://eventstoronto.ca/event/singers-songwriters-showcase",
   "type": "concert",
-  "time": "19:30"
+  "time": "19:30",
+  "genre": "folk"
  },
  {
   "venue": "free-times-cafe",
@@ -589,7 +627,8 @@
   "title": "Franc'Open Mic",
   "url": "https://eventstoronto.ca/event/francopen-mic-la-scene-ouverte-francophone-de-toronto",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "folk"
  },
  {
   "venue": "free-times-cafe",
@@ -621,7 +660,8 @@
   "title": "Klezmer Brunch w/ Babka Boys",
   "url": "https://eventstoronto.ca/event/buffet-brunch-bella-did-ya-eat-w-babka-boys",
   "type": "concert",
-  "time": "11:00"
+  "time": "11:00",
+  "genre": "world"
  },
  {
   "venue": "free-times-cafe",
@@ -645,7 +685,8 @@
   "title": "Songwriters' Open Stage w/ Russell Leon",
   "url": "https://eventstoronto.ca/event/songwriters-open-stage-w-russell-leon",
   "type": "concert",
-  "time": "19:00"
+  "time": "19:00",
+  "genre": "folk"
  },
  {
   "venue": "free-times-cafe",
@@ -685,7 +726,8 @@
   "title": "Get Together: 60's/70's Singalong",
   "url": "https://sueanddwight.com/event/6795858/786577199/get-together-in-person-60-s-70-s-singalong-full-band",
   "type": "concert",
-  "time": "14:00"
+  "time": "14:00",
+  "genre": "folk"
  },
  {
   "venue": "free-times-cafe",
@@ -717,7 +759,8 @@
   "title": "Klezmer Brunch w/ Yosi Landau",
   "url": "https://eventstoronto.ca/event/buffet-brunch-bella-did-ya-eat-w-yosi-landau",
   "type": "concert",
-  "time": "11:00"
+  "time": "11:00",
+  "genre": "world"
  },
  {
   "venue": "free-times-cafe",
@@ -733,7 +776,8 @@
   "title": "Tuesday Songwriters' Open Stage",
   "url": "https://www.freetimescafe.com/",
   "type": "concert",
-  "time": "19:30"
+  "time": "19:30",
+  "genre": "folk"
  },
  {
   "venue": "free-times-cafe",
@@ -749,7 +793,8 @@
   "title": "Greene and Bleus Band",
   "url": "https://grossmanstavern.com/event/greene-and-bleus-band-27/",
   "type": "concert",
-  "time": "21:00"
+  "time": "21:00",
+  "genre": "blues"
  },
  {
   "venue": "grossmans",
@@ -757,7 +802,8 @@
   "title": "The Old Dawgz",
   "url": "https://grossmanstavern.com/event/the-old-dawgz-2/",
   "type": "concert",
-  "time": "18:00"
+  "time": "18:00",
+  "genre": "blues"
  },
  {
   "venue": "grossmans",
@@ -765,7 +811,8 @@
   "title": "Sound One",
   "url": "https://grossmanstavern.com/event/sound-one-29/",
   "type": "concert",
-  "time": "21:30"
+  "time": "21:30",
+  "genre": "blues"
  },
  {
   "venue": "grossmans",
@@ -773,7 +820,8 @@
   "title": "The Happy Pals",
   "url": "https://grossmanstavern.com/event/the-happy-pals-134/",
   "type": "concert",
-  "time": "15:30"
+  "time": "15:30",
+  "genre": "jazz"
  },
  {
   "venue": "grossmans",
@@ -781,7 +829,8 @@
   "title": "Rob Hiemstra and the Chairman of the Board",
   "url": "https://grossmanstavern.com/event/heather-luckhart-eric-st-launent-9/",
   "type": "concert",
-  "time": "21:00"
+  "time": "21:00",
+  "genre": "blues"
  },
  {
   "venue": "grossmans",
@@ -789,7 +838,8 @@
   "title": "New Orleans Connection All Star Jazz Band",
   "url": "https://grossmanstavern.com/event/new-orleans-connection-all-star-jazz-band-134/",
   "type": "concert",
-  "time": "15:00"
+  "time": "15:00",
+  "genre": "jazz"
  },
  {
   "venue": "grossmans",
@@ -797,7 +847,8 @@
   "title": "Sunday Jam Night Hosted by The Charter Blues Band",
   "url": "https://grossmanstavern.com/event/sunday-jam-night-hosted-by-the-charter-blues-band-22/",
   "type": "concert",
-  "time": "21:00"
+  "time": "21:00",
+  "genre": "blues"
  },
  {
   "venue": "grossmans",
@@ -805,7 +856,8 @@
   "title": "Action Sound Band",
   "url": "https://grossmanstavern.com/event/action-sound-band-130/",
   "type": "concert",
-  "time": "21:00"
+  "time": "21:00",
+  "genre": "blues"
  },
  {
   "venue": "grossmans",
@@ -813,7 +865,8 @@
   "title": "Joel Battle & Friends",
   "url": "https://grossmanstavern.com/event/joel-battle-friends-13/",
   "type": "concert",
-  "time": "21:30"
+  "time": "21:30",
+  "genre": "blues"
  },
  {
   "venue": "grossmans",
@@ -821,7 +874,8 @@
   "title": "Hold the Bus",
   "url": "https://grossmanstavern.com/event/hold-the-bus-17/",
   "type": "concert",
-  "time": "18:00"
+  "time": "18:00",
+  "genre": "blues"
  },
  {
   "venue": "grossmans",
@@ -837,7 +891,8 @@
   "title": "The Happy Pals",
   "url": "https://grossmanstavern.com/event/the-happy-pals-135/",
   "type": "concert",
-  "time": "15:30"
+  "time": "15:30",
+  "genre": "jazz"
  },
  {
   "venue": "grossmans",
@@ -845,7 +900,8 @@
   "title": "The Moving Violations",
   "url": "https://grossmanstavern.com/event/the-moving-violations-6/",
   "type": "concert",
-  "time": "21:00"
+  "time": "21:00",
+  "genre": "blues"
  },
  {
   "venue": "grossmans",
@@ -853,7 +909,8 @@
   "title": "New Orleans Connection All Star Jazz Band",
   "url": "https://grossmanstavern.com/event/new-orleans-connection-all-star-jazz-band-133/",
   "type": "concert",
-  "time": "15:00"
+  "time": "15:00",
+  "genre": "jazz"
  },
  {
   "venue": "grossmans",
@@ -861,7 +918,8 @@
   "title": "Sunday Jam Night Hosted by Ken Yoshioka",
   "url": "https://grossmanstavern.com/event/sunday-jam-night-hosted-by-ken-yoshioka-4/",
   "type": "concert",
-  "time": "21:00"
+  "time": "21:00",
+  "genre": "blues"
  },
  {
   "venue": "grossmans",
@@ -869,7 +927,8 @@
   "title": "Action Sound Band",
   "url": "https://grossmanstavern.com/event/action-sound-band-131/",
   "type": "concert",
-  "time": "21:00"
+  "time": "21:00",
+  "genre": "blues"
  },
  {
   "venue": "grossmans",
@@ -885,7 +944,8 @@
   "title": "Sound Ideas Big Band",
   "url": "https://grossmanstavern.com/event/sound-ideas-big-band-7/",
   "type": "concert",
-  "time": "19:00"
+  "time": "19:00",
+  "genre": "jazz"
  },
  {
   "venue": "grossmans",
@@ -893,7 +953,8 @@
   "title": "Frankie Foo",
   "url": "https://grossmanstavern.com/event/frankie-foo-32/",
   "type": "concert",
-  "time": "21:00"
+  "time": "21:00",
+  "genre": "blues"
  },
  {
   "venue": "grossmans",
@@ -901,7 +962,8 @@
   "title": "The Happy Pals",
   "url": "https://grossmanstavern.com/event/the-happy-pals-136/",
   "type": "concert",
-  "time": "15:30"
+  "time": "15:30",
+  "genre": "jazz"
  },
  {
   "venue": "grossmans",
@@ -909,7 +971,8 @@
   "title": "Caution Jam",
   "url": "https://grossmanstavern.com/event/caution-jam-31/",
   "type": "concert",
-  "time": "21:00"
+  "time": "21:00",
+  "genre": "blues"
  },
  {
   "venue": "grossmans",
@@ -917,7 +980,8 @@
   "title": "New Orleans Connection All Star Jazz Band",
   "url": "https://grossmanstavern.com/event/new-orleans-connection-all-star-jazz-band-132/",
   "type": "concert",
-  "time": "15:00"
+  "time": "15:00",
+  "genre": "jazz"
  },
  {
   "venue": "grossmans",
@@ -925,7 +989,8 @@
   "title": "Sunday Jam Night Hosted by Fried Angels",
   "url": "https://grossmanstavern.com/event/sunday-jam-night-hosted-by-fried-angels-8/",
   "type": "concert",
-  "time": "21:00"
+  "time": "21:00",
+  "genre": "blues"
  },
  {
   "venue": "grossmans",
@@ -933,7 +998,8 @@
   "title": "Action Sound Band",
   "url": "https://grossmanstavern.com/event/action-sound-band-132/",
   "type": "concert",
-  "time": "21:00"
+  "time": "21:00",
+  "genre": "blues"
  },
  {
   "venue": "the-rex",
@@ -941,7 +1007,8 @@
   "title": "Adriana Malandrino Quintet",
   "url": "https://www.therex.ca/events/adriana-malandrino-quintet",
   "type": "concert",
-  "time": "17:00"
+  "time": "17:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -949,7 +1016,8 @@
   "title": "Ernesto Cervini Quartet : Water Pistols at Dawn CD Launch",
   "url": "https://www.therex.ca/events/ernesto-cervini-quartet-2-sr2eh",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -957,7 +1025,8 @@
   "title": "Tim Posgate",
   "url": "https://www.therex.ca/events/tim-posgate-2",
   "type": "concert",
-  "time": "17:00"
+  "time": "17:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -965,7 +1034,8 @@
   "title": "Ernesto Cervini Quartet : Water Pistols at Dawn CD Launch",
   "url": "https://www.therex.ca/events/ernesto-cervini-quartet-2-sr2eh-wpmzj",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -973,7 +1043,8 @@
   "title": "The Chris Hunt Tentet",
   "url": "https://www.therex.ca/events/the-chris-hunt-tentet",
   "type": "concert",
-  "time": "14:00"
+  "time": "14:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -989,7 +1060,8 @@
   "title": "Ernesto Cervini Quartet : Water Pistols at Dawn CD Launch",
   "url": "https://www.therex.ca/events/ernesto-cervini-quartet-2-sr2eh-wpmzj-wpe6j",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1005,7 +1077,8 @@
   "title": "Avataar",
   "url": "https://www.therex.ca/events/avataar-2",
   "type": "concert",
-  "time": "14:00"
+  "time": "14:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1013,7 +1086,8 @@
   "title": "Laura Hubert Band",
   "url": "https://www.therex.ca/events/laura-hubert-band-2-rgl67-2fs3t-kpzrt-whmzk-9dxb7-a2f4b",
   "type": "concert",
-  "time": "17:00"
+  "time": "17:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1029,7 +1103,8 @@
   "title": "University of Toronto Student Jazz Ensembles",
   "url": "https://www.therex.ca/events/university-of-toronto-student-jazz-ensembles-8s2bg-al9l6-x43w3-2y6yk-frtf6",
   "type": "concert",
-  "time": "17:00"
+  "time": "17:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1045,7 +1120,8 @@
   "title": "Nico Dann Quartet",
   "url": "https://www.therex.ca/events/nico-dann",
   "type": "concert",
-  "time": "17:00"
+  "time": "17:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1053,7 +1129,8 @@
   "title": "Classic Rex Jazz Jam",
   "url": "https://www.therex.ca/events/kjhjzpwwktph5p6-5s2t9-dsfga-3tkpm-xra9d-rs6pr-5t68s-b6bdl-rdnh9-5ydnb-ywppw-tpclj",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1061,7 +1138,8 @@
   "title": "Gianluca Occhipinti Trio",
   "url": "https://www.therex.ca/events/gianluca-occhipinti-trio-3",
   "type": "concert",
-  "time": "17:00"
+  "time": "17:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1069,7 +1147,8 @@
   "title": "Larnell Lewis & Joy Lapps",
   "url": "https://www.therex.ca/events/larnell-lewis-joy-lapps",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1077,7 +1156,8 @@
   "title": "Nathan Tran Quintet",
   "url": "https://www.therex.ca/events/nathan-tran-quintet-2",
   "type": "concert",
-  "time": "17:00"
+  "time": "17:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1085,7 +1165,8 @@
   "title": "Larnell Lewis & Joy Lapps",
   "url": "https://www.therex.ca/events/larnell-lewis-joy-lapps-tpy9s",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1093,7 +1174,8 @@
   "title": "Robert Chapman Quartet",
   "url": "https://www.therex.ca/events/robert-chapman-quartet-1",
   "type": "concert",
-  "time": "17:00"
+  "time": "17:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1101,7 +1183,8 @@
   "title": "Larnell Lewis & Joy Lapps",
   "url": "https://www.therex.ca/events/larnell-lewis-joy-lapps-tpy9s-35m5r",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1109,7 +1192,8 @@
   "title": "Larnell Lewis & Joy Lapps",
   "url": "https://www.therex.ca/events/larnell-lewis-joy-lapps-tpy9s-35m5r-xerjp",
   "type": "concert",
-  "time": "22:15"
+  "time": "22:15",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1117,7 +1201,8 @@
   "title": "Stephen Philip Harvey Jazz Orchestra",
   "url": "https://www.therex.ca/events/stephen-philip-harvey-jazz-orchestra",
   "type": "concert",
-  "time": "14:00"
+  "time": "14:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1125,7 +1210,8 @@
   "title": "The Victor Bateman Trio",
   "url": "https://www.therex.ca/events/the-victor-bateman-trio",
   "type": "concert",
-  "time": "17:00"
+  "time": "17:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1133,7 +1219,8 @@
   "title": "Larnell Lewis & Joy Lapps",
   "url": "https://www.therex.ca/events/larnell-lewis-joy-lapps-tpy9s-35m5r-ehyt9",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1141,7 +1228,8 @@
   "title": "Larnell Lewis & Joy Lapps",
   "url": "https://www.therex.ca/events/larnell-lewis-joy-lapps-tpy9s-35m5r-xerjp-3dxjl",
   "type": "concert",
-  "time": "22:15"
+  "time": "22:15",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1149,7 +1237,8 @@
   "title": "Quarteto da Rua",
   "url": "https://www.therex.ca/events/quarteto-da-rua",
   "type": "concert",
-  "time": "14:00"
+  "time": "14:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1173,7 +1262,8 @@
   "title": "University of Toronto Student Jazz Ensembles",
   "url": "https://www.therex.ca/events/university-of-toronto-student-jazz-ensembles-8s2bg-al9l6-x43w3-2y6yk-frtf6-hds2w",
   "type": "concert",
-  "time": "17:00"
+  "time": "17:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1189,7 +1279,8 @@
   "title": "Steve Lucas Jazz Trio",
   "url": "https://www.therex.ca/events/steve-lucas-jazz-trio",
   "type": "concert",
-  "time": "17:00"
+  "time": "17:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1197,7 +1288,8 @@
   "title": "Classic Rex Jazz Jam",
   "url": "https://www.therex.ca/events/kjhjzpwwktph5p6-5s2t9-dsfga-3tkpm-xra9d-rs6pr-5t68s-b6bdl-rdnh9-5ydnb-ywppw-tpclj-sjfap",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1205,7 +1297,8 @@
   "title": "Devin Patten's the Afton Project",
   "url": "https://www.therex.ca/events/devin-pattens-the-afton-project",
   "type": "concert",
-  "time": "17:00"
+  "time": "17:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1213,7 +1306,8 @@
   "title": "Triology ft Jodi Proznick",
   "url": "https://www.therex.ca/events/triology-ft-jodi-proznick",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1221,7 +1315,8 @@
   "title": "Maureen Kennedy Trio",
   "url": "https://www.therex.ca/events/maureen-kennedy-trio",
   "type": "concert",
-  "time": "17:00"
+  "time": "17:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1229,7 +1324,8 @@
   "title": "Triology ft Jodi Proznick",
   "url": "https://www.therex.ca/events/triology-ft-jodi-proznick-rpdn8",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1237,7 +1333,8 @@
   "title": "Karl Silveira Quartet",
   "url": "https://www.therex.ca/events/karl-silveira-quartet",
   "type": "concert",
-  "time": "17:00"
+  "time": "17:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1245,7 +1342,8 @@
   "title": "Triology ft Jodi Proznick",
   "url": "https://www.therex.ca/events/triology-ft-jodi-proznick-rpdn8-tsn3s",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1253,7 +1351,8 @@
   "title": "Raquel Marina Septet",
   "url": "https://www.therex.ca/events/raquel-marina-septet",
   "type": "concert",
-  "time": "14:00"
+  "time": "14:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1269,7 +1368,8 @@
   "title": "Triology ft Jodi Proznick",
   "url": "https://www.therex.ca/events/triology-ft-jodi-proznick-rpdn8-tsn3s-97nt9",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1285,7 +1385,8 @@
   "title": "Bogdan Gumenyuk Trio",
   "url": "https://www.therex.ca/events/bogdan-gumenyuk-trio",
   "type": "concert",
-  "time": "14:00"
+  "time": "14:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1293,7 +1394,8 @@
   "title": "Laura Hubert Band",
   "url": "https://www.therex.ca/events/laura-hubert-band-2-rgl67-2fs3t-kpzrt-whmzk-9dxb7-a2f4b-pgejh",
   "type": "concert",
-  "time": "17:00"
+  "time": "17:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1301,7 +1403,8 @@
   "title": "Rebecca Hennessy's Maps And Photographs Album Release Show",
   "url": "https://www.therex.ca/events/rebecca-hennessys-maps-and-photographs-album-release-show",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1309,7 +1412,8 @@
   "title": "Humber College Student Jazz Ensembles",
   "url": "https://www.therex.ca/events/humber-college-student-jazz-ensembles-tzr6b-epwcp-dyy7z",
   "type": "concert",
-  "time": "17:00"
+  "time": "17:00",
+  "genre": "jazz"
  },
  {
   "venue": "the-rex",
@@ -1317,6 +1421,7 @@
   "title": "John Macleod's Rex Hotel Orchestra",
   "url": "https://www.therex.ca/events/john-macleods-rex-hotel-orchestra-5-xxs3s-fm7xf-5cgcc-angwd",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "jazz"
  }
 ]

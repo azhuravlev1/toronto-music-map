@@ -4,28 +4,32 @@
   "date": "2026-11-19",
   "title": "U of T Opera: Fall River, the legend of Lizzie Borden",
   "url": "https://www.heritagetrust.on.ca/ewg/calendar/uoft-opera-lizzie-borden?date=2026-11-19",
-  "type": "concert"
+  "type": "concert",
+  "genre": "classical"
  },
  {
   "venue": "elgin-theatre",
   "date": "2026-11-20",
   "title": "U of T Opera: Fall River, the legend of Lizzie Borden",
   "url": "https://www.heritagetrust.on.ca/ewg/calendar/uoft-opera-lizzie-borden?date=2026-11-20",
-  "type": "concert"
+  "type": "concert",
+  "genre": "classical"
  },
  {
   "venue": "elgin-theatre",
   "date": "2026-11-21",
   "title": "U of T Opera: Fall River, the legend of Lizzie Borden",
   "url": "https://www.heritagetrust.on.ca/ewg/calendar/uoft-opera-lizzie-borden?date=2026-11-21",
-  "type": "concert"
+  "type": "concert",
+  "genre": "classical"
  },
  {
   "venue": "elgin-theatre",
   "date": "2026-11-22",
   "title": "U of T Opera: Fall River, the legend of Lizzie Borden",
   "url": "https://www.heritagetrust.on.ca/ewg/calendar/uoft-opera-lizzie-borden?date=2026-11-22",
-  "type": "concert"
+  "type": "concert",
+  "genre": "classical"
  },
  {
   "venue": "winter-garden-theatre",
@@ -97,7 +101,8 @@
   "title": "COC Free Concert: Gabrielle Turgeon (OSM Competition winner) w/ Rachael Kerr",
   "url": "https://www.coc.ca/tickets/2627-season/osm-competition-2025-grand-prize-winner",
   "type": "concert",
-  "time": "12:00"
+  "time": "12:00",
+  "genre": "classical"
  },
  {
   "venue": "four-seasons-centre",
@@ -105,7 +110,8 @@
   "title": "COC Free Concert: Poèmes en Musique (Glenn Gould School)",
   "url": "https://www.coc.ca/tickets/2627-season/poemes-en-musique",
   "type": "concert",
-  "time": "12:00"
+  "time": "12:00",
+  "genre": "classical"
  },
  {
   "venue": "four-seasons-centre",
@@ -113,7 +119,8 @@
   "title": "COC Free Concert: Winter in Paris (COC Ensemble Studio)",
   "url": "https://www.coc.ca/tickets/2627-season/winter-in-paris",
   "type": "concert",
-  "time": "12:00"
+  "time": "12:00",
+  "genre": "classical"
  },
  {
   "venue": "harbourfront-centre",
@@ -329,7 +336,8 @@
   "title": "Boudchart",
   "url": "https://admitone.com/events/boudchart-toronto-178338",
   "type": "concert",
-  "time": "19:00"
+  "time": "19:00",
+  "genre": "world"
  },
  {
   "venue": "queen-elizabeth-theatre",
@@ -337,7 +345,8 @@
   "title": "INNA",
   "url": "https://admitone.com/events/inna-toronto-148209",
   "type": "concert",
-  "time": "19:00"
+  "time": "19:00",
+  "genre": "pop"
  },
  {
   "venue": "queen-elizabeth-theatre",
@@ -345,7 +354,8 @@
   "title": "King",
   "url": "https://admitone.com/events/king-toronto-175957",
   "type": "concert",
-  "time": "19:00"
+  "time": "19:00",
+  "genre": "hiphop"
  },
  {
   "venue": "queen-elizabeth-theatre",
@@ -353,7 +363,8 @@
   "title": "Avatar: The Last Airbender in Concert",
   "url": "https://admitone.com/events/avatar-the-last-airbender-toronto-171581",
   "type": "concert",
-  "time": "19:00"
+  "time": "19:00",
+  "genre": "classical"
  },
  {
   "venue": "queen-elizabeth-theatre",
@@ -361,7 +372,8 @@
   "title": "Avatar: The Last Airbender in Concert",
   "url": "https://admitone.com/events/avatar-the-last-airbender-toronto-172677",
   "type": "concert",
-  "time": "19:00"
+  "time": "19:00",
+  "genre": "classical"
  },
  {
   "venue": "queen-elizabeth-theatre",
@@ -369,7 +381,8 @@
   "title": "Song Dongye",
   "url": "https://admitone.com/events/song-dongye-toronto-179498",
   "type": "concert",
-  "time": "19:00"
+  "time": "19:00",
+  "genre": "folk"
  },
  {
   "venue": "koerner-hall",
@@ -377,7 +390,8 @@
   "title": "UnCovered: Bee Gees & The Beach Boys (Musical Stage Company)",
   "url": "https://www.rcmusic.com/concert/musical-stage-company-presents-uncovered-bee-gees-and-the-beach-boys-468801-2",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "tribute"
  },
  {
   "venue": "koerner-hall",
@@ -385,7 +399,8 @@
   "title": "Béla Fleck: My Bluegrass Heart",
   "url": "https://www.rcmusic.com/concert/bela-fleck-my-bluegrass-heart-444601",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "folk"
  },
  {
   "venue": "koerner-hall",
@@ -393,7 +408,8 @@
   "title": "Aga Khan Master Musicians",
   "url": "https://www.rcmusic.com/concert/aga-khan-master-musicians-441401",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "world"
  },
  {
   "venue": "koerner-hall",
@@ -401,7 +417,8 @@
   "title": "Rihab Chaieb + Ammiel Bushakevitz",
   "url": "https://www.rcmusic.com/concert/rihab-chaieb-mezzo-soprano-with-ammiel-bushakevitz-piano-430601",
   "type": "concert",
-  "time": "15:00"
+  "time": "15:00",
+  "genre": "classical"
  },
  {
   "venue": "koerner-hall",
@@ -409,7 +426,8 @@
   "title": "Punch Brothers",
   "url": "https://www.rcmusic.com/concert/punch-brothers-441801",
   "type": "concert",
-  "time": "19:00"
+  "time": "19:00",
+  "genre": "folk"
  },
  {
   "venue": "koerner-hall",
@@ -417,7 +435,8 @@
   "title": "Naghash Ensemble + Karen Ouzounian + Amadeus Choir",
   "url": "https://www.rcmusic.com/concert/naghash-ensemble-karen-ouzounian-quartet-and-the-amadeus-choir-448401",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "world"
  },
  {
   "venue": "koerner-hall",
@@ -425,7 +444,8 @@
   "title": "Daniil Trifonov",
   "url": "https://www.rcmusic.com/concert/daniil-trifonov-piano-427002",
   "type": "concert",
-  "time": "15:00"
+  "time": "15:00",
+  "genre": "classical"
  },
  {
   "venue": "koerner-hall",
@@ -433,7 +453,8 @@
   "title": "Royal Conservatory Orchestra w/ Tania Miller",
   "url": "https://www.rcmusic.com/concert/royal-conservatory-orchestra-with-conductor-tania",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "classical"
  },
  {
   "venue": "koerner-hall",
@@ -441,7 +462,8 @@
   "title": "Jean-Michel Blais",
   "url": "https://www.rcmusic.com/concert/jean-michel-blais-451801",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "classical"
  },
  {
   "venue": "koerner-hall",
@@ -449,7 +471,8 @@
   "title": "Esprit Orchestra: FAST!",
   "url": "https://www.rcmusic.com/concert/esprit-orchestra-presents-fast-467001",
   "type": "concert",
-  "time": "20:00"
+  "time": "20:00",
+  "genre": "classical"
  },
  {
   "venue": "koerner-hall",
@@ -457,7 +480,8 @@
   "title": "Oscar Peterson Program",
   "url": "https://www.rcmusic.com/concert/oscar-peterson-program-478001",
   "type": "concert",
-  "time": "19:00"
+  "time": "19:00",
+  "genre": "jazz"
  },
  {
   "venue": "koerner-hall",
@@ -465,7 +489,8 @@
   "title": "Roby Lakatos",
   "url": "https://www.rcmusic.com/concert/roby-lakatos-447601",
   "type": "concert",
-  "time": "19:00"
+  "time": "19:00",
+  "genre": "world"
  },
  {
   "venue": "mazzoleni-hall",
@@ -473,7 +498,8 @@
   "title": "Taylor Academy Recital",
   "url": "https://www.rcmusic.com/concert/taylor-academy-recital-1",
   "type": "concert",
-  "time": "16:30"
+  "time": "16:30",
+  "genre": "classical"
  },
  {
   "venue": "mazzoleni-hall",
@@ -481,7 +507,8 @@
   "title": "Taylor Academy Showcase Concert",
   "url": "https://www.rcmusic.com/concert/taylor-academy-showcase-concert-450801-1",
   "type": "concert",
-  "time": "16:30"
+  "time": "16:30",
+  "genre": "classical"
  },
  {
   "venue": "mazzoleni-hall",
@@ -489,6 +516,7 @@
   "title": "Taylor Academy Encore",
   "url": "https://www.rcmusic.com/concert/taylor-academy-encore",
   "type": "concert",
-  "time": "19:00"
+  "time": "19:00",
+  "genre": "classical"
  }
 ]
